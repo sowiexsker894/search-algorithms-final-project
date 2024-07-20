@@ -1,0 +1,1501 @@
+Codigo_Ubi,Nombre_c,Provincia,Departamento,ubi_x,ubi_y
+1,Calle Primavera,Lima,Lima,15,25
+2,Avenida del Sol,Callao,Lima,13,30
+3,Camino de los Pájaros,Huacho,Lima,17,35
+4,Plaza Mayor,Huaral,Lima,16,35
+5,Paseo del Mar,Cañete,Lima,16,15
+6,Avenida de las Flores,Barranca,Lima,11,45
+7,Camino Real,Chancay,Lima,5,5
+8,Calle de la Luna,Huaura,Lima,15,40
+9,Avenida de la Paz,Canta,Lima,13,30
+10,Calle del Sol Naciente,Mala,Lima,7,50
+11,Paseo de la Libertad,Chilca,Lima,16,10
+12,Avenida del Río,Oyón,Lima,7,40
+13,Calle de la Aurora,San Vicente de Cañete,Lima,9,15
+14,Camino de los Sueños,Imperial,Lima,6,35
+15,Plaza del Pueblo,San Bartolo,Lima,16,25
+16,Paseo de los Robles,Santa María,Lima,13,21
+17,Calle de la Estrella,Pucusana,Lima,18,30
+18,Avenida de la Victoria,Ancón,Lima,12,9
+19,Camino Verde,Pachacámac,Lima,18,8
+20,Plaza de la Concordia,Lurín,Lima,14,10
+21,Calle del Marqués,Carabayllo,Lima,19,13
+22,Avenida de los Ángeles,San Juan de Lurigancho,Lima,10,10
+23,Callejón de las Sombras,San Juan de Miraflores,Lima,11,7
+24,Paseo del Parque,La Victoria,Lima,20,23
+25,Calle de la Perla,Ate,Lima,10,24
+26,Camino del Cielo,Comas,Lima,19,17
+27,Plaza de la Fuente,Chorrillos,Lima,16,7
+28,Avenida del Norte,San Isidro,Lima,11,8
+29,Calle de la Cruz,San Borja,Lima,9,29
+30,Paseo de la Alameda,Surco,Lima,7,11
+31,Callejón del Silencio,Magdalena del Mar,Lima,5,22
+32,Avenida del Ocaso,Miraflores,Lima,15,27
+33,Camino de las Palmeras,Jesús María,Lima,13,15
+34,Plaza de la Rosa,Lince,Lima,17,19
+35,Calle de la Esperanza,Pueblo Libre,Lima,14,17
+36,Paseo de la Montaña,Breña,Lima,17,10
+37,Calle del Bosque,Rímac,Lima,6,27
+38,Avenida de las Estrellas,San Miguel,Lima,12,22
+39,Camino del Abrazo,Bellavista,Lima,17,28
+40,Plaza de la Victoria,La Perla,Lima,8,13
+41,Calle del Reloj,Carmen de La Legua Reynoso,Lima,10,8
+42,Avenida de la Luna,La Punta,Lima,7,5
+43,Callejón de los Susurros,Ventanilla,Lima,9,14
+44,Paseo de la Playa,Ancón,Lima,19,12
+45,Avenida de los Sueños,Puente Piedra,Lima,20,9
+46,Calle de la Paloma,Santa Rosa,Lima,10,23
+47,Camino del Sol,Los Olivos,Lima,20,6
+48,Plaza del Sol,Independencia,Lima,7,5
+49,Calle de la Alegría,Comas,Lima,11,14
+50,Avenida de la Serenidad,San Martín de Porres,Lima,15,12
+51,Callejón del Beso,San Juan de Lurigancho,Lima,18,19
+52,Paseo de las Flores,Ate,Lima,14,9
+53,Avenida del Faro,Cieneguilla,Lima,6,16
+54,Calle del Diamante,Chaclacayo,Lima,14,25
+55,Camino de la Costa,Pachacámac,Lima,19,5
+56,Plaza de las Palmeras,Santa María del Mar,Lima,12,23
+57,Avenida de la Sonrisa,Lurigancho-Chosica,Lima,20,27
+58,Calle de la Perdición,San Bartolo,Lima,14,13
+59,Callejon de los Recuerdos,Punta Hermosa,Lima,6,25
+60,Paseo del Horizonte,Punta Negra,Lima,9,6
+61,Avenida del Paraíso,San Antonio,Lima,16,26
+62,Calle de los Pinos,Mala,Lima,15,17
+63,Camino de la Luna,Asia,Lima,5,21
+64,Plaza de las Estrellas,Nuevo Imperial,Lima,19,5
+65,Avenida de la Felicidad,San Vicente de Cañete,Lima,8,5
+66,Calle del Alba,Santa Cruz de Flores,Lima,19,5
+67,Callejón de los Amores,Cerro Azul,Lima,20,16
+68,Paseo de los Pájaros,Quilmaná,Lima,5,28
+69,Calle de la Brisa,Coayllo,Lima,16,27
+70,Camino de los Sentimientos,Pacarán,Lima,14,9
+71,Plaza del Amor,Zúñiga,Lima,5,28
+72,Avenida de la Fortuna,Calango,Lima,15,6
+73,Calle de la Aurora Boreal,Lunahuaná,Lima,9,21
+74,Callejón de los Encantos,Chilca,Lima,10,23
+75,Paseo de las Mariposas,Mala,Lima,20,8
+76,Avenida del Encanto,Pucusana,Lima,19,12
+77,Calle del Coral,Santa María,Lima,9,24
+78,Camino de la Esperanza,San Bartolo,Lima,16,30
+79,Plaza del Encuentro,Punta Hermosa,Lima,20,11
+80,Avenida del Destino,Punta Negra,Lima,19,21
+81,Calle de la Caracola,San Antonio,Lima,20,24
+82,Callejón de los Secretos,Pachacámac,Lima,5,10
+83,Avenida del Sueño,Ventanilla,Lima,9,9
+84,Calle del Espejo,Ancón,Lima,11,14
+85,Camino de los Suspiros,Puente Piedra,Lima,17,13
+86,Plaza de la Amistad,Santa Rosa,Lima,7,27
+87,Avenida de la Ilusión,Los Olivos,Lima,8,7
+88,Calle de la Fantasía,Comas,Lima,15,20
+89,Paseo de las Ilusiones,Independencia,Lima,12,8
+90,Avenida del Crepúsculo,San Martín de Porres,Lima,7,5
+91,Calle de la Niebla,San Juan de Lurigancho,Lima,15,24
+92,Camino de la Montaña,Ate,Lima,13,13
+93,Plaza de la Esperanza,Cieneguilla,Lima,17,27
+94,Avenida de los Recuerdos,Chaclacayo,Lima,19,18
+95,Calle del Murmullo,Pachacámac,Lima,20,20
+96,Callejón del Ensueño,Santa María del Mar,Lima,14,24
+97,Paseo de los Ángeles,Lurigancho-Chosica,Lima,20,28
+98,Avenida del Silencio,San Luis,Lima,10,18
+99,Calle de la Luna Llena,El Agustino,Lima,20,29
+100,Camino de los Secretos,San Borja,Lima,5,15
+101,Plaza del Silencio,Surquillo,Lima,7,10
+102,Avenida del Misterio,Santiago de Surco,Lima,5,23
+103,Calle de la Cascada,San Isidro,Lima,13,28
+104,Callejón de los Encuentros,Magdalena del Mar,Lima,12,24
+105,Paseo de los Enamorados,Miraflores,Lima,12,5
+106,Avenida del Éxito,Jesús María,Lima,18,24
+107,Calle del Ocaso,La Molina,Lima,15,26
+108,Camino de la Fantasía,Lince,Lima,12,26
+109,Plaza del Recuerdo,Pueblo Libre,Lima,12,20
+110,Avenida del Sol Naciente,San Miguel,Lima,8,27
+111,Calle del Susurro,La Victoria,Lima,20,8
+112,Callejón de los Deseos,San Juan de Lurigancho,Lima,12,20
+113,Paseo de la Inspiración,Independencia,Lima,18,6
+114,Avenida de las Mariposas,Comas,Lima,7,10
+115,Calle de la Palmera,Los Olivos,Lima,11,23
+116,Plaza de los Sueños,Ancón,Lima,10,14
+117,Avenida del Alma,Santa Rosa,Lima,12,26
+118,Calle de la Orilla,Carabayllo,Lima,7,16
+119,Callejón del Amor,Puente Piedra,Lima,7,26
+120,Paseo de las Palmeras,Santa María del Mar,Lima,10,28
+121,Avenida de la Imaginación,Lurigancho-Chosica,Lima,8,14
+122,Calle de la Luna Nueva,Cieneguilla,Lima,7,29
+123,Camino de los Recuerdos,San Antonio,Lima,10,6
+124,Plaza de la Felicidad,Chorrillos,Lima,12,22
+125,Avenida de los Suspiros,Barranco,Lima,19,17
+126,Calle del Crepúsculo,Villa El Salvador,Lima,20,25
+127,Callejón de las Maravillas,Villa María del Triunfo,Lima,10,24
+128,Paseo de los Cerezos,Pucusana,Lima,13,25
+129,Avenida de la Inspiración,Punta Hermosa,Lima,6,28
+130,Calle de la Libertad,Punta Negra,Lima,20,19
+131,Camino del Recuerdo,San Bartolo,Lima,5,11
+132,Plaza de los Recuerdos,Pachacámac,Lima,14,23
+133,Avenida de la Fantasía,Santa María,Lima,17,19
+134,Calle del Destino,Mala,Lima,11,16
+135,Callejón de las Amapolas,Asia,Lima,20,10
+136,Paseo de las Estrellas,Nuevo Imperial,Lima,13,14
+137,Avenida de la Esperanza,San Vicente de Cañete,Lima,6,7
+138,Calle de la Noche,Santa Cruz de Flores,Lima,13,29
+139,Camino de los Ángeles,Cerro Azul,Lima,6,10
+140,Plaza del Romance,Quilmaná,Lima,19,25
+141,Avenida del Recuerdo,Coayllo,Lima,17,7
+142,Calle de la Noche Vieja,Lunahuaná,Lima,13,16
+143,Callejón de los Sueños,Chilca,Lima,16,18
+144,Paseo de la Alegría,San Pedro de Mala,Lima,15,12
+145,Avenida del Amanecer,Pucusana,Lima,18,8
+146,Calle de los Suspiros,Santa María,Lima,5,5
+147,Camino de la Ilusión,Punta Hermosa,Lima,12,10
+148,Plaza de los Deseos,Punta Negra,Lima,8,15
+149,Avenida de la Alegría,San Bartolo,Lima,17,10
+150,Calle del Espejismo,Pachacámac,Lima,11,10
+151,Callejón del Recuerdo,Santa María del Mar,Lima,15,27
+152,Paseo de las Maravillas,Lurigancho-Chosica,Lima,8,7
+153,Avenida de la Magia,Huánuco (capital regional),Huanuco,6,20
+154,Calle de la Pasión,Tingo María,Huanuco,13,5
+155,Avenida del Bosque Encantado,Amarilis,Huanuco,8,6
+156,Callejón de los Misterios,La Unión,Huanuco,11,5
+157,Paseo de la Aurora Boreal,Pillco Marca,Huanuco,18,23
+158,Plaza de los Encuentros,Acomayo,Huanuco,6,22
+159,Camino de las Maravillas,Ambo,Huanuco,13,17
+160,Avenida de los Recuerdos Perdidos,Llata,Huanuco,11,13
+161,Callejón de la Luna Mágica,Churubamba,Huanuco,20,29
+162,Paseo de la Serendipia,Yuyapichis,Huanuco,13,14
+163,Plaza del Corazón Contento,Jacas Grande,Huanuco,17,8
+164,Avenida de las Sonrisas Perdidas,Chinchao,Huanuco,20,23
+165,Calle de los Enigmas,Rupa-Rupa,Huanuco,14,27
+166,Camino de los Destellos,Monzón,Huanuco,16,21
+167,Callejón del Sueño Profundo,Churubamba,Huanuco,6,13
+168,Paseo de los Destinos Cruzados,La Unión,Huanuco,19,9
+169,Plaza de las Ilusiones Efímeras,Kichki,Huanuco,5,29
+170,Avenida de los Días Radiantes,Huanuco,Huanuco,19,13
+171,Calle del Instante Eterno,Huánuco Viejo,Huanuco,5,7
+172,Callejón de las Sonrisas Secretas,José Crespo y Castillo,Huanuco,11,14
+173,Paseo de los Sueños Compartidos,Mariano Dámaso Beraún,Huanuco,13,9
+174,Plaza del Alma Despierta,Santa María del Valle,Huanuco,9,14
+175,Avenida de los Suspiros Lejanos,Quisqui,Huanuco,16,23
+176,Calle de los Encantamientos,San Francisco de Cayrán,Huanuco,11,25
+177,Camino de las Miradas Cómplices,San Pedro de Chaulán,Huanuco,20,8
+178,Callejón de las Estrellas Fugaces,Santa María del Valle,Huanuco,19,20
+179,Avenida del Júbilo,San Rafael,Huanuco,7,8
+180,Camino de las Emociones Vivas,Tomay Kichwa,Huanuco,13,28
+181,Callejón de los Latidos,Tantamayo,Huanuco,18,24
+182,Paseo de las Almas Gemelas,Quisqui,Huanuco,9,8
+183,Avenida del Abrazo Cálido,Santa María del Valle,Huanuco,14,27
+184,Calle de los Versos Olvidados,San Francisco de Cayrán,Huanuco,18,15
+185,Camino de los Sueños Despiertos,San Pedro de Chaulán,Huanuco,15,7
+186,Callejón de los Lamentos,San Rafael,Huanuco,8,25
+187,Paseo de los Corazones Ardientes,Tomay Kichwa,Huanuco,17,30
+188,Plaza de las Risas Eternas,Tantamayo,Huanuco,9,25
+189,Avenida del Destino Compartido,hachapoyas (capital regional),Amazonas,9,29
+190,Calle de los Momentos Mágicos,Bagua Grande,Amazonas,9,7
+191,Camino de las Luces Intermitentes,La Peca,Amazonas,14,16
+192,Plaza de la Libertad Soñada,Pedro Ruiz Gallo,Amazonas,11,16
+193,Callejón de los Días Felices,Lamud,Amazonas,14,14
+194,Plaza de las Emociones Intensas,Jumbilla,Amazonas,15,14
+195,Avenida del Encuentro Casual,Santa María de Nieva,Amazonas,14,21
+196,Callejón de los Pasos Perdidos,Balsas,Amazonas,7,29
+197,Paseo de las Estaciones Cambiantes,Leymebamba,Amazonas,12,12
+198,Plaza de la Aventura,Cohechan,Amazonas,11,27
+199,Calle de los Instantes Únicos,Cajaruro,Amazonas,6,9
+200,Camino de los Recuerdos Dulces,Shipasbamba,Amazonas,13,13
+201,Paseo de los Anhelos Cumplidos,Aramango,Amazonas,20,5
+202,Plaza de los Destinos Entrelazados,Copallín,Amazonas,5,24
+203,Avenida de los Caminos Cruzados,San Carlos,Amazonas,12,9
+204,Calle del Tiempo Detenido,Yambrasbamba,Amazonas,19,20
+205,Paseo de las Risas Eternas,Florida,Amazonas,5,9
+206,Plaza de los Suspiros Lejanos,Molinopampa,Amazonas,7,10
+207,Avenida de las Emociones Vivas,Santo Tomás,Amazonas,20,17
+208,Calle de las Estrellas Fugaces,María,Amazonas,13,25
+209,Camino de las Sonrisas Secretas,La Jalca,Amazonas,15,27
+210,Callejón de los Encantamientos,Leimebamba,Amazonas,18,26
+211,Paseo de los Destinos Inciertos,Churuja,Amazonas,19,15
+212,Plaza de la Euforia,Sonche,Amazonas,15,29
+213,Avenida del Renacer,Cumba,Amazonas,9,14
+214,Calle de los Abrazos Perdidos,Cocabamba,Amazonas,18,23
+215,Camino de los Días Felices,Vista Alegre,Amazonas,15,13
+216,Callejón de los Sueños Posibles,Huampami,Amazonas,7,20
+217,Paseo de las Emociones Intensas,Camporredondo,Amazonas,9,12
+218,Plaza del Encuentro Casual,Santa Rosa,Amazonas,15,19
+219,Calle de los Sueños Perdidos,San Carlos,Amazonas,10,27
+220,Callejón de los Momentos Mágicos,Montevideo,Amazonas,15,9
+221,Paseo de las Luces Intermitentes,San Francisco de Daguas,Amazonas,9,21
+222,Plaza de los Abrazos Perdidos,El Tingo,Amazonas,15,10
+223,Avenida de las Estaciones Cambiantes,Cajaruro,Amazonas,17,8
+224,Calle del Corazón Valiente,Copallín,Amazonas,13,23
+225,Callejón de las Miradas Furtivas,Shipasbamba,Amazonas,7,7
+226,Paseo de los Caminos Cruzados,Aramango,Amazonas,20,22
+227,Plaza del Tiempo Detenido,Santiago de Tucuma,Amazonas,15,20
+228,Calle de las Sonrisas Secretas,Chuquibamba,Amazonas,6,15
+229,Paseo de los Destinos Entrelazados,Los Jardines de Utcubamba,Amazonas,8,20
+230,Plaza de los Días Felices,Nuevo Progreso,Amazonas,7,25
+231,Avenida de los Sueños Posibles,Pueblo Nuevo,Amazonas,15,19
+232,Calle del Encuentro Casual,San Antonio de Cumbaza,Amazonas,18,10
+233,Callejón de los Sueños Perdidos,Tingo de Ponasa,Amazonas,11,23
+234,Paseo de los Momentos Mágicos,San Pablo de Valera,Amazonas,18,9
+235,Plaza de las Luces Intermitentes,Salalá,Amazonas,6,8
+236,Avenida de los Abrazos Perdidos,Vista Florida,Amazonas,9,12
+237,Avenida de los Destellos Dorados,Tupac Amaru,Amazonas,6,17
+238,Callejón de los Susurros Nocturnos,Tamborapa,Amazonas,10,18
+239,Paseo de los Sueños Luminosos,San Miguel de Pallaques,Amazonas,18,7
+240,Plaza del Corazón Ardiente,San Juan de Lopecancha,Amazonas,8,15
+241,Camino de las Memorias Doradas,Jazán,Amazonas,10,25
+242,Calle de los Encantos Efímeros,La Primavera,Amazonas,7,6
+243,Callejón de las Estrellas Brillantes,San Antonio,Amazonas,7,18
+244,Paseo de los Recuerdos Preciados,Jesús,Amazonas,18,21
+245,Plaza de los Encuentros Inesperados,La Libertad de Pallán,Amazonas,7,8
+246,Camino de las Emociones Vibrantes,Rumisapa,Amazonas,16,30
+247,Calle del Destino Desconocido,Quinjalca,Amazonas,18,24
+248,Avenida de los Pasos Perdidos,Palmiche,Amazonas,19,24
+249,Callejón de los Instantes Mágicos,Magdalena,Amazonas,5,20
+250,Paseo de los Latidos del Corazón,La Florida,Amazonas,6,15
+251,Plaza de los Secretos Revelados,Cuispes,Amazonas,14,8
+252,Avenida del Alma Despertada,Chillao,Amazonas,20,5
+253,Calle de las Miradas Cómplices,Chuchuhuasi,Amazonas,20,9
+254,Camino de las Ilusiones Renovadas,La Morada,Amazonas,18,10
+255,Callejón de los Anhelos Cumplidos,Vista Hermosa,Amazonas,7,28
+256,Paseo de los Deseos Cumplidos,Shabadpata,Amazonas,8,22
+257,Plaza de las Sonrisas Perdidas,Huamanquiquia,Amazonas,15,23
+258,Avenida de los Suspiros Profundos,Imacita,Amazonas,17,18
+259,Calle del Encuentro Fortuito,San Francisco de la Cruz,Amazonas,16,24
+260,Plaza de las Emociones Verdaderas,La Coipa,Amazonas,11,23
+261,Avenida de los Recuerdos Felices,La Duraznilla,Amazonas,18,22
+262,Calle de los Abrazos Cálidos,Cumbicus,Amazonas,19,16
+263,Camino de las Experiencias Únicas,Cocachimba,Amazonas,14,7
+264,Paseo de las Sorpresas Agradables,Amento,Amazonas,11,21
+265,Plaza de los Instantes Inolvidables,La Petaca,Amazonas,11,7
+266,Avenida del Corazón Contento,Palmira,Amazonas,17,27
+267,Camino de los Pequeños Placeres,Tutumberos,Amazonas,6,22
+268,Plaza de las Inspiraciones Diarias,Montegrande,Amazonas,14,30
+269,Avenida de los Pasos Firmes,La Rinconada,Amazonas,5,13
+270,Calle del Camino Iluminado,Vista Alegre,Amazonas,19,28
+271,Camino de las Oportunidades,Huancas,Amazonas,5,9
+272,Paseo de los Momentos Preciosos,Cochacajas,Amazonas,5,24
+273,Plaza de los Afectos Sinceros,Yanahuanca,Amazonas,17,25
+274,Avenida del Sendero Despejado,Tayatambo,Amazonas,5,16
+275,Calle de las Metas Alcanzadas,Bellavista,Amazonas,12,14
+276,Paseo de los Logros Personales,Vista Florida,Amazonas,19,23
+277,Plaza de las Experiencias Enriquecedoras,San Juan de Tabaconas,Amazonas,16,28
+278,Avenida de las Aventuras Cotidianas,Nuevo San Juan,Amazonas,20,27
+279,Calle de los Retos Superados,Jelgal,Amazonas,15,9
+280,Camino de las Metas Cumplidas,Colcamar,Amazonas,14,17
+281,Callejón de las Decisiones Acertadas,Pardo Miguel,Amazonas,19,7
+282,Paseo de las Experiencias Transformadoras,Puma Urco,Amazonas,8,12
+283,Plaza de los Sueños Realizados,Urco Pampa,Amazonas,18,7
+284,Avenida de las Oportunidades Únicas,Jumbilla,Amazonas,14,15
+285,Calle de las Alegrías Compartidas,Yalape,Amazonas,19,13
+286,Camino de los Objetivos Logrados,Chipuca,Amazonas,15,29
+287,Paseo de los Desafíos Superados,Sabanilla,Amazonas,5,13
+288,Avenida de las Experiencias Inolvidables,Huaracane,Amazonas,6,20
+289,Calle de los Objetivos Cumplidos,Vista Alegre,Amazonas,15,22
+290,Plaza de las Decisiones Acertadas,San Pedro de Coris,Amazonas,17,23
+291,Avenida de los Caminos Recorridos,Vellamayo,Amazonas,14,14
+292,Camino de las Alegrías Compartidas,Porvenir,Amazonas,9,12
+293,Callejón de los Objetivos Logrados,Huarango,Amazonas,18,23
+294,Paseo de las Metas Alcanzadas,Los Cipreses,Amazonas,9,7
+295,Plaza de los Desafíos Superados,Pueblo Libre,Amazonas,18,8
+296,Avenida de las Alegrías Compartidas,San Antonio de Rana,Amazonas,17,23
+297,Calle de las Metas Cumplidas,San José de la Montaña,Amazonas,16,9
+298,Camino de los Objetivos Alcanzados,Chirimoto,Amazonas,13,8
+299,Callejón de las Experiencias Inolvidables,Providencia,Amazonas,5,25
+300,Paseo de los Retos Superados,El Alumbre,Amazonas,18,25
+301,Plaza de las Decisiones Sabias,Porvenir,Amazonas,16,27
+302,Avenida de las Experiencias Transformadoras,Providencia,Amazonas,14,27
+303,Calle de los Objetivos Logrados,Puca,Amazonas,16,23
+304,Camino de las Aventuras Vividas,San Antonio de Cumbaza,Amazonas,5,10
+305,Callejón de las Experiencias Enriquecedoras,San Francisco de Daguas,Amazonas,15,20
+306,Paseo de los Sueños Realizados,San Isidro de Maino,Amazonas,19,23
+307,Plaza de los Logros Personales,San Miguel de Pallaques,Amazonas,9,14
+308,Avenida de las Metas Cumplidas,Tingo de Ponasa,Amazonas,11,5
+309,Calle de las Alegrías Cotidianas,Valera,Amazonas,17,21
+310,Camino de las Metas Alcanzadas,Vista Florida,Amazonas,20,9
+311,Callejón de las Decisiones Sabias,Lámud,Amazonas,17,23
+312,Paseo de las Experiencias Inolvidables,San Francisco del Yeso,Amazonas,8,23
+313,Plaza de los Objetivos Cumplidos,Choropampa,Amazonas,8,25
+314,Avenida de las Aventuras Vividas,El Milagro,Amazonas,19,10
+315,Calle de las Experiencias Transformadoras,La Florida,Amazonas,19,13
+316,Callejón de las Metas Alcanzadas,Las Palmas,Amazonas,12,10
+317,Paseo de las Experiencias Enriquecedoras,Olleros,Amazonas,16,12
+318,Plaza de los Retos Superados,Romeritos,Amazonas,15,17
+319,Avenida de las Decisiones Acertadas,Shumag,Amazonas,18,27
+320,Calle de los Logros Personales,Utcubamba,Amazonas,20,13
+321,Avenida del Encanto Oculto,Yanama,Amazonas,16,22
+322,Callejón de los Destinos Entrelazados,Luya,Amazonas,6,12
+323,Paseo de las Emociones Efímeras,Longar,Amazonas,17,27
+324,Calle de los Secretos Revelados,Maraybamba,Amazonas,15,9
+325,Avenida de los Sueños Luminosos,Mesones Muro,Amazonas,19,14
+326,Paseo de los Recuerdos Vividos,Ocallí,Amazonas,18,24
+327,Camino de las Aventuras Compartidas,Ocumal,Amazonas,14,23
+328,Calle del Destino Incierto,Pisuquia,Amazonas,9,22
+329,Avenida de los Instantes Mágicos,Providencia,Amazonas,12,7
+330,Callejón de las Emociones Profundas,San Cristóbal,Amazonas,12,22
+331,Paseo de las Sonrisas Complices,San Francisco de Yeso,Amazonas,13,20
+332,Plaza de los Sueños Despiertos,San Jerónimo,Amazonas,6,15
+333,Calle de las Maravillas Ocultas,Sisupe,Amazonas,11,29
+334,Avenida de las Risas Espontáneas,Tambillo Grande,Amazonas,18,11
+335,Callejón de las Experiencias Intensas,Tututepec,Amazonas,10,14
+336,Paseo de los Momentos Especiales,Vista Alegre,Amazonas,5,15
+337,Plaza del Corazón Alegre,Yambrasbamba,Amazonas,7,24
+338,Avenida de los Caminos Iluminados,Yamón,Amazonas,15,18
+339,Calle de los Instantes Preciados,Yorongos,Amazonas,16,26
+340,Paseo de los Recuerdos Cálidos,Yuracyacu,Amazonas,19,13
+341,Plaza de las Experiencias Reveladoras,San Miguel de Chaccrampa,Apurimac,11,17
+342,Calle de los Destinos Cruzados,Chiara,Apurimac,10,25
+343,Callejón de las Alegrías Compartidas,Huancarama,Apurimac,19,10
+344,Paseo de los Sentimientos Verdaderos,San Antonio de Cachi,Apurimac,20,23
+345,Plaza de los Sueños Cumplidos,Huaquirca,Apurimac,14,26
+346,Camino de los Recuerdos Placenteros,Santa Rosa,Apurimac,19,15
+347,Avenida de las Emociones Vibrantes,Chuquibambilla,Apurimac,17,13
+348,Calle de las Experiencias Inolvidables,Pacobamba,Apurimac,8,24
+349,Callejón de los Anhelos Alcanzados,Santa María,Apurimac,10,23
+350,Avenida del Corazón Valiente,Ancobamba,Apurimac,19,25
+351,Calle de las Emociones Intensas,Curahuasi,Apurimac,11,21
+352,Camino de los Momentos Especiales,Chincheros,Apurimac,8,30
+353,Callejón de los Sueños Compartidos,Toraya,Apurimac,12,7
+354,Paseo de las Alegrías Cotidianas,Ayranpata,Apurimac,10,12
+355,Plaza de los Recuerdos Vivos,Circa,Apurimac,7,7
+356,Avenida de las Experiencias Renovadoras,Huayllati,Apurimac,15,10
+357,Calle del Encuentro Esperado,Lambrama,Apurimac,6,24
+358,Camino de los Instantes Únicos,Panao,Apurimac,20,23
+359,Callejón de las Sensaciones Únicas,Anco,Apurimac,18,18
+360,Plaza de las Emociones Vibrantes,Uripa,Apurimac,15,22
+361,Avenida de los Recuerdos Cálidos,Curahuasi,Apurimac,17,10
+362,Calle de los Momentos Especiales,Soraya,Apurimac,6,6
+363,Camino de las Sensaciones Únicas,Circa,Apurimac,7,12
+364,Callejón de los Sueños Realizados,Ayranpata,Apurimac,11,23
+365,Avenida de los Sueños Despiertos,Huayllati,Apurimac,18,21
+366,Calle del Destino Renacido,Lambrama,Apurimac,16,28
+367,Camino de los Recuerdos Olvidados,Panao,Apurimac,8,17
+368,Paseo de las Sombras Errantes,Anco,Apurimac,11,28
+369,Callejón de los Pasos Errantes,Uripa,Apurimac,20,15
+370,Paseo de los Recuerdos Marchitos,Cachora,Apurimac,14,7
+371,Avenida de los Lamentos Perdidos,Acobamba,Apurimac,18,17
+372,Plaza de los Corazones Rotos,Chalhuanca,Apurimac,5,28
+373,Avenida de los Caminos Perdidos,Ranracancha,Apurimac,11,17
+374,Calle de las Huellas Borrosas,Yanaca,Apurimac,11,12
+375,Camino de los Sueños Marchitos,El Porvenir,Apurimac,19,16
+376,Callejón de las Ilusiones Fugaces,Huaquirca,Apurimac,16,15
+377,Paseo de los Recuerdos Desvanecidos,Chincheros,Apurimac,16,10
+378,Plaza de las Promesas Incumplidas,Choco,Apurimac,13,16
+379,Callejón de los Deseos Perdidos,Rocchacc,Apurimac,15,26
+380,Plaza de los Corazones Vacíos,Capaya,Apurimac,18,16
+381,Calle del Olvido Eterno,Ranracancha,Apurimac,14,6
+382,Callejón de los Deseos Olvidados,Tamburco,Apurimac,17,14
+383,Paseo de las Miradas Olvidadas,Soraya,Apurimac,10,7
+384,Plaza de los Corazones Olvidados,Chalhuanca,Apurimac,13,14
+385,Avenida de los Caminos Olvidados,Roccach,Apurimac,17,10
+386,Calle del Olvido Olvidado,Chincheros,Apurimac,8,5
+387,Camino de los Sueños Olvidados,Choco,Apurimac,6,25
+388,Callejón de las Ilusiones Olvidadas,Capaya,Apurimac,6,30
+389,Paseo de los Recuerdos Olvidados,Tamburco,Apurimac,16,29
+390,Avenida del Silencio Olvidado,Huancaraylla,Apurimac,9,11
+391,Calle de los Suspiros Olvidados,Capaya,Apurimac,5,15
+392,Camino de las Estrellas Olvidadas,Chalhuanca,Apurimac,8,16
+393,Avenida del Destino Desconocido,Roccach,Apurimac,11,21
+394,Calle de los Susurros Nocturnos,Chincheros,Apurimac,6,11
+395,Camino de los Recuerdos Vividos,Choco,Apurimac,7,26
+396,Callejón de las Miradas Cautivas,Tamburco,Apurimac,8,26
+397,Plaza del Corazón Anhelante,Huancaraylla,Apurimac,6,6
+398,Avenida de las Sonrisas Radiantes,Muyurina,Apurimac,20,28
+399,Calle de los Sueños Luminosos,Pacucha,Apurimac,15,10
+400,Camino de los Encuentros Inesperados,Chiquintirca,Apurimac,5,11
+401,Callejón de las Maravillas Ocultas,Cocharcas,Apurimac,16,11
+402,Paseo de las Risas Espontáneas,Chuquibambilla,Apurimac,6,11
+403,Plaza de los Momentos Especiales,Cotabambas,Apurimac,13,14
+404,Avenida del Corazón Feliz,Andarapa,Apurimac,14,21
+405,Calle de los Sueños Posibles,Chicmo,Apurimac,16,16
+406,Camino de las Risas Espontáneas,Talavera,Apurimac,19,28
+407,Callejón de las Experiencias Vividas,Chiara,Apurimac,16,29
+408,Paseo de los Recuerdos Preciosos,Huamanquiquia,Apurimac,6,30
+409,Avenida del Horizonte Sereno,Mara,Apurimac,5,19
+410,Calle del Susurro Melódico,Huancaray,Apurimac,15,25
+411,Camino de los Destellos Esmeralda,Chalhuanca,Apurimac,16,9
+412,Paseo de los Suspiros Lejanos,Rocchacc,Apurimac,19,17
+413,Plaza del Ensueño Azul,Chalhuanca,Apurimac,5,15
+414,Avenida de los Susurros Silenciosos,Choco,Apurimac,11,9
+415,Calle de los Latidos Ardientes,Chalhuanca,Apurimac,8,6
+416,Camino de las Brisas Aromáticas,Tamburco,Apurimac,16,19
+417,Paseo de las Melodías Tranquilas,Acocro,Apurimac,9,21
+418,Plaza del Silencio Amable,Andarapa,Apurimac,15,13
+419,Avenida de los Destellos Celestes,Andarapa,Apurimac,19,27
+420,Calle del Eco Místico,Huaquirca,Apurimac,8,17
+421,Camino de los Destinos Entrelazados,Pachaconas,Apurimac,5,29
+422,Callejón de las Sombras Danzantes,Pacobamba,Apurimac,16,25
+423,Paseo de los Encantos Suspendidos,Cotabambas,Apurimac,13,18
+424,Plaza del Horizonte Dorado,Andarapa,Apurimac,18,27
+425,Avenida de las Estrellas Fugaces,Chicmo,Apurimac,11,22
+426,Calle de los Susurros Lejanos,Talavera,Apurimac,17,30
+427,Camino de las Sombras Veladas,Chiara,Apurimac,11,7
+428,Callejón de las Melodías Perdidas,Huamanquiquia,Apurimac,18,9
+429,Paseo de los Recuerdos Dormidos,Mara,Apurimac,8,15
+430,Plaza del Suspiro Silente,Huancaray,Apurimac,16,16
+431,Avenida de los Destinos Efímeros,Chalhuanca,Apurimac,6,26
+432,Calle del Eco Silencioso,Rocchacc,Apurimac,8,13
+433,Camino de las Brisas Susurrantes,Chalhuanca,Apurimac,20,10
+434,Callejón de las Luces Danzantes,Camaná,Arequipa,15,12
+435,Paseo de los Latidos Anhelantes,Mollendo,Arequipa,14,15
+436,Plaza del Ensueño Violeta,Huaro,Cuzco,11,23
+437,Avenida de los Murmullos Místicos,Huacarpay,Cuzco,17,5
+438,Calle del Susurro Sereno,Saylla,Cuzco,9,12
+439,Camino de los Destellos Nocturnos,Huambutío,Cuzco,17,6
+440,Callejón de las Sombras Celestes,Zurite,Cuzco,16,19
+441,Paseo de los Secretos Susurrados,Andahuaylillas,Cuzco,14,14
+442,Plaza del Silencio Encantado,Checacupe,Cuzco,13,17
+443,Avenida de las Estrellas Parpadeantes,Ccatca,Cuzco,20,29
+444,Calle de los Suspiros Estelares,Oropesa,Cuzco,16,24
+445,Camino de las Brisas Celestiales,Huaro,Cuzco,9,26
+446,Callejón de las Melodías Susurrantes,Chinchero,Cuzco,8,27
+447,Paseo de los Recuerdos Melódicos,Poroy,Cuzco,13,24
+448,Plaza del Eco Cálido,Yucay,Cuzco,20,8
+449,Avenida de los Destinos Secretos,Huancarani,Cuzco,8,25
+450,Calle del Murmullo Nocturno,Huaro,Cuzco,18,24
+451,Camino de las Sombras Encantadas,Andahuaylillas,Cuzco,10,11
+452,Callejón de las Luces Parpadeantes,Huambutío,Cuzco,5,14
+453,Paseo de los Latidos Efímeros,Lucre,Cuzco,11,5
+454,Plaza del Ensueño Carmesí,Saylla,Cuzco,18,30
+455,Avenida de los Susurros Mágicos,Ccatca,Cuzco,10,22
+456,Calle del Eco Melancólico,Checacupe,Cuzco,8,23
+457,Camino de los Destellos Efervescentes,Písac,Cuzco,8,24
+458,Callejón de las Sombras Brillantes,Maras,Cuzco,14,12
+459,Paseo de los Secretos Revelados,Anta,Cuzco,19,24
+460,Plaza del Silencio Radiante,Calca,Cuzco,12,19
+461,Avenida de las Estrellas Brillantes,Urubamba,Cuzco,9,18
+462,Calle de los Suspiros Luminosos,Paucartambo,Cuzco,11,17
+463,Camino de las Brisas Resplandecientes,Sicuani,Cuzco,9,18
+464,Callejón de las Melodías Brillantes,Espinar,Cuzco,15,13
+465,Paseo de los Recuerdos Luminosos,Quillabamba,Cuzco,10,24
+466,Plaza del Eco Centelleante,Paruro,Cuzco,18,5
+467,Avenida de los Destinos Luminosos,Yanatile,Cuzco,5,6
+468,Calle del Murmullo Brillante,Santa Ana,Cuzco,14,19
+469,Camino de las Sombras Deslumbrantes,San Jerónimo,Cuzco,12,20
+470,Callejón de las Luces Relucientes,Urcos,Cuzco,7,18
+471,Paseo de los Latidos Radiantes,Chinchero,Cuzco,8,5
+472,Plaza del Ensueño Resplandeciente,Zurite,Cuzco,5,27
+473,Avenida de los Susurros Centelleantes,Cachimayo,Cuzco,20,8
+474,Camino de los Destellos Brillantes,Santa Teresa,Cuzco,13,29
+475,Callejón de las Sombras Resplandecientes,Ollantaytambo,Cuzco,15,7
+476,Plaza del Silencio Fulgente,Taray,Cuzco,13,13
+477,Paseo de los Latidos Fulgurantes,San Pablo,Cuzco,17,9
+478,Plaza del Ensueño Fulgurante,Limatambo,Cuzco,9,25
+479,Avenida de los Susurros Fulgurantes,Huancarani,Cuzco,16,9
+480,Calle del Eco Fulgurante,Colquepata,Cuzco,18,9
+481,Camino de los Destellos Fulgurantes,Ancahuasi,Cuzco,10,19
+482,Callejón de las Sombras Fulgurantes,Quiquijana,Cuzco,14,7
+483,Paseo de los Secretos Fulgurantes,Pisac,Cuzco,5,11
+484,Plaza del Silencio Fulgurante,Huayllabamba,Cuzco,16,26
+485,Avenida de las Estrellas Fulgurantes,Huancarani,Cuzco,10,8
+486,Calle de los Suspiros Fulgurantes,Zurite,Cuzco,19,10
+487,Camino de las Brisas Fulgurantes,Huayllabamba,Cuzco,15,16
+488,Callejón de las Melodías Fulgurantes,San Salvador,Cuzco,20,28
+489,Paseo de los Recuerdos Fulgurantes,Taray,Cuzco,7,30
+490,Plaza del Eco Fulgurante,Maras,Cuzco,11,20
+491,Avenida de los Destinos Fulgurantes,Huambutío,Cuzco,20,25
+492,Calle del Murmullo Fulgurante,Cusco,Cuzco,12,29
+493,Camino de las Sombras Fulgurantes,Cusco (capital regional),Cuzco,9,14
+494,Callejón de las Luces Fulgurantes,Sicuani,Cuzco,12,29
+495,Avenida de los Susurros Nocturnos,Urubamba,Cuzco,12,14
+496,Calle del Destino Oscuro,Espinar,Cuzco,10,5
+497,Camino de las Sombras Profundas,Quillabamba,Cuzco,13,15
+498,Callejón de los Secretos Olvidados,Anta,Cuzco,9,23
+499,Paseo de las Memorias Perdidas,Andahuaylas,Cuzco,16,6
+500,Plaza de los Sueños Rotos,Chinchero,Cuzco,9,9
+501,Avenida del Silencio Eterno,Calca,Cuzco,10,29
+502,Calle de los Recuerdos Marchitos,Paucartambo,Cuzco,15,17
+503,Camino de las Promesas Incumplidas,Paruro,Cuzco,16,22
+504,Callejón de las Ilusiones Perdidas,Yanaoca,Cuzco,19,26
+505,Paseo de los Anhelos Desvanecidos,Ocobamba,Cuzco,16,8
+506,Avenida de las Sombras Desoladas,Coya,Cuzco,11,20
+507,Calle del Olvido Abandonado,Lamay,Cuzco,7,16
+508,Camino de los Destinos Desvanecidos,Santa Ana,Cuzco,17,21
+509,Callejón de los Recuerdos Vacíos,San Jerónimo,Cuzco,5,14
+510,Paseo de las Promesas Incumplidas,Urcos,Cuzco,8,25
+511,Plaza de los Sueños Olvidados,Chumbivilcas,Cuzco,15,12
+512,Avenida del Silencio Abatido,Huarocondo,Cuzco,15,7
+513,Avenida de los Susurros Desvanecidos,Zurite,Cuzco,20,22
+514,Paseo de los Anhelos Perdidos,Cachimayo,Cuzco,7,16
+515,Avenida de las Sombras Abandonadas,Maras,Cuzco,12,16
+516,Calle del Olvido Oscuro,San Salvador,Cuzco,19,20
+517,Avenida del Silencio Desgarrado,Ollantaytambo,Cuzco,18,25
+518,Paseo de las Memorias Desvanecidas,Taray,Cuzco,8,24
+519,Plaza de las Promesas Rotas,Santa Teresa,Cuzco,13,5
+520,Avenida del Silencio Desolado,Huayllabamba,Cuzco,13,10
+521,Calle de los Pasos Efímeros,Huancarani,Cuzco,17,28
+522,Camino de los Recuerdos Marchitos,Yanatile,Cuzco,7,10
+523,Callejón de las Ilusiones Desvanecidas,San Pablo,Cuzco,11,16
+524,Paseo de las Esperanzas Perdidas,Limatambo,Cuzco,12,26
+525,Plaza de los Suspiros Olvidados,Pisac,Cuzco,20,30
+526,Avenida de las Sombras Desgarradas,Huancarani,Cuzco,5,5
+527,Calle del Olvido Silencioso,Ancahuasi,Cuzco,10,13
+528,Callejón de los Recuerdos Olvidados,Colquepata,Cuzco,14,7
+529,Paseo de las Miradas Vacías,Huarocondo,Cuzco,10,10
+530,Plaza de los Destinos Desolados,Quiquijana,Cuzco,6,7
+531,Avenida del Silencio Desgastado,Písac,Cuzco,12,12
+532,Calle de los Pasos Olvidados,Lucre,Cuzco,6,29
+533,Camino de las Estrellas Marchitas,Huayllabamba,Cuzco,15,5
+534,Callejón de las Esperanzas Perdidas,San Salvador,Cuzco,19,26
+535,Paseo de los Sueños Olvidados,Andahuaylillas,Cuzco,7,21
+536,Plaza de las Ilusiones Rotas,Huancayo (capital regional),Junin,8,27
+537,Avenida de los Susurros Marchitos,Tarma,Junin,7,12
+538,Calle del Olvido Silente,La Merced,Junin,10,11
+539,Camino de los Recuerdos Desvanecidos,Jauja,Junin,16,11
+540,Plaza de las Promesas Olvidadas,Chanchamayo,Junin,16,26
+541,Avenida del Silencio Abandonado,Satipo,Junin,13,22
+542,Calle de los Pasos Perdidos,Concepción,Junin,5,15
+543,Camino de las Miradas Vacías,San Ramón,Junin,9,15
+544,Callejón de las Esperanzas Efímeras,Huancavelica,Junin,10,12
+545,Paseo de los Destinos Olvidados,El Tambo,Junin,9,30
+546,Plaza de los Sueños Marchitos,Chupaca,Junin,11,26
+547,Avenida de los Susurros Olvidados,Junín,Junin,15,15
+548,Calle del Olvido Desolado,La Oroya,Junin,18,11
+549,Camino de las Estrellas Apagadas,Paccha,Junin,20,28
+550,Callejón de los Deseos Efímeros,San Jerónimo de Tunán,Junin,17,10
+551,Avenida de los Destellos Plateados,El Mantaro,Junin,7,5
+552,Calle del Susurro Nocturno,Pichanaqui,Junin,20,14
+553,Camino de las Sonrisas Radiantes,San Pedro de Cajas,Junin,20,7
+554,Callejón de los Recuerdos Dorados,Chilca,Junin,5,9
+555,Paseo de las Maravillas Ocultas,Vitoc,Junin,5,16
+556,Plaza del Encuentro Inesperado,Chanchamayo,Junin,5,29
+557,Avenida de las Sensaciones Únicas,Jauja,Junin,19,8
+558,Calle de los Sueños Realizados,Concepción,Junin,6,29
+559,Camino de los Sueños Realizados,Sapallanga,Junin,5,30
+560,Callejón de los Recuerdos Dulces,Huaripampa,Junin,7,10
+561,Paseo de las Experiencias Únicas,Ondores,Junin,12,19
+562,Plaza del Corazón Radiante,Chacapampa,Junin,12,13
+563,Avenida de las Sonrisas Luminosas,Huancán,Junin,7,26
+564,Paseo de las Experiencias Únicas,Ahuac,Junin,10,27
+565,Plaza del Corazón Radiante,San Luis de Shuaro,Junin,9,6
+566,Avenida de las Sonrisas Luminosas,Caja,Junin,8,30
+567,Calle del Destino Encantado,San Agustín,Junin,11,30
+568,Camino de los Suspiros Serenos,Yauli,Junin,9,16
+569,Callejón de las Emociones Vivas,Jauja,Junin,15,5
+570,Paseo del Corazón Ardiente,San Lorenzo,Junin,13,22
+571,Plaza de los Anhelos Cumplidos,Ingenio,Junin,15,14
+572,Avenida del Destino Encantado,Huasicancha,Junin,15,21
+573,Calle de las Risas Espontáneas,Huachón,Junin,10,27
+574,Camino de los Recuerdos Preciosos,Canchayllo,Junin,16,30
+575,Callejón de las Experiencias Únicas,Mazamari,Junin,13,24
+576,Paseo de las Sensaciones Únicas,Ataura,Junin,14,13
+577,Plaza del Encuentro Mágico,Sicaya,Junin,14,5
+578,Avenida de los Instantes Inolvidables,Monobamba,Junin,15,19
+579,Calle del Corazón Feliz,Colcabamba,Junin,11,16
+580,Camino de los Sueños Posibles,Tingo,Junin,12,5
+581,Callejón de las Risas Espontáneas,Mariscal Castilla,Junin,15,19
+582,Paseo de las Experiencias Vividas,El Mantaro,Junin,11,18
+583,Plaza de los Recuerdos Preciosos,Pucará,Junin,10,10
+584,Avenida del Encuentro Esperado,Sicaya,Junin,5,21
+585,Calle de las Sensaciones Únicas,Quilcas,Junin,15,8
+586,Camino de los Sueños Realizados,Hualghuas,Junin,12,19
+587,Callejón de los Recuerdos Dulces,Molinos,Junin,6,21
+588,Calle Abraham Lincoln,Chachapoyas,Amazonas,20,24
+589,Avenida Nelson Mandela,Bagua,Amazonas,20,15
+590,Calle Mahatma Gandhi,Bongará,Amazonas,6,14
+591,Avenida Martin Luther King Jr.,Condorcarqui,Amazonas,9,27
+592,Calle Winston Churchill,Luya,Amazonas,6,9
+593,Avenida John F. Kennedy,Rodirguezde mendoza,Ancash,7,18
+594,Calle Rosa Parks,Huaraz,Ancash,6,17
+595,Avenida Benito Juárez,Carhuaz,Ancash,12,6
+596,Calle José Martí,Casma,Ancash,17,19
+597,Avenida Evita Perón,Huari,Ancash,11,18
+598,Calle Simón Bolívar,Huaylas,Ancash,8,28
+599,Avenida José de San Martín,Recuay,Ancash,18,10
+600,Calle Miguel Hidalgo,Yungay,Ancash,12,12
+601,Avenida Che Guevara,Huarmey,Ancash,14,11
+602,Calle Frida Kahlo,Pallasca,Ancash,9,7
+603,Avenida Diego Rivera,Corongo,Ancash,17,24
+604,Calle Pablo Picasso,Sihuas,Ancash,17,14
+605,Avenida Salvador Dalí,Santa,Ancash,12,8
+606,Calle Vincent van Gogh,Pomabamba,Ancash,19,16
+607,Avenida Leonardo da Vinci,Mariscal Luzuriaga,Ancash,5,28
+608,Calle Michelangelo Buonarroti,Carlos Fermin Fitcarrald,Ancash,15,7
+609,Avenida Galileo Galilei,Antonio Raymondi,Ancash,20,11
+610,Calle Isaac Newton,Asuncion,Ancash,7,19
+611,Avenida Albert Einstein,Aija,Ancash,11,26
+612,Calle Marie Curie,Bolognesi,Ancash,20,19
+613,Avenida Charles Darwin,Ocros,Ancash,15,12
+614,Calle Gregor Mendel,Abancay,Apurimac,13,9
+615,Avenida Nikola Tesla,Andahuaylas,Apurimac,5,29
+616,Calle Thomas Edison,Antabamba,Apurimac,15,30
+617,Avenida Alexander Graham Bell,Aymaraes,Apurimac,11,24
+618,Calle Samuel Morse,Cotabambas,Apurimac,13,18
+619,Avenida Marie Antoinette,Chincheros,Apurimac,8,19
+620,Calle Napoleon Bonaparte,Grau,Apurimac,17,30
+621,Avenida Cleopatra,Arequipa,Arequipa,6,7
+622,Calle Julius Caesar,Camaná,Arequipa,9,17
+623,Avenida Genghis Khan,Caravelí,Arequipa,12,19
+624,Calle Joan of Arc,Caylloma,Arequipa,19,18
+625,Avenida Marco Polo,Condesuyos,Arequipa,9,17
+626,Calle Christopher Columbus,Islay,Arequipa,13,19
+627,Avenida Ferdinand Magellan,La union,Arequipa,17,17
+628,Calle Marco Aurelio,Ayacucho,Ayacucho,6,8
+629,Avenida Julius Caesar,Huanta,Ayacucho,15,23
+630,Calle Hannibal,Huamanga,Ayacucho,13,14
+631,Avenida Socrates,San Fracisco,Ayacucho,10,22
+632,Calle Plato,San miguel,Ayacucho,12,16
+633,Avenida Aristotle,Cajamarca,Cajamarca,7,6
+634,Calle Alexander the Great,Jaén,Cajamarca,12,25
+635,Avenida King Solomon,Cutervo,Cajamarca,12,22
+636,Calle Martin Luther,Chota,Cajamarca,11,11
+637,Avenida William Shakespeare,San Ignacio,Cajamarca,19,15
+638,Calle Edgar Allan Poe,Celendín,Cajamarca,5,11
+639,Avenida Emily Dickinson,Cajabamba,Cajamarca,18,23
+640,Calle Mark Twain,Bambamarca,Cajamarca,20,10
+641,Avenida J.R.R. Tolkien,Contumazá,Cajamarca,19,7
+642,Calle C.S. Lewis,Hualgayoc,Cajamarca,6,22
+643,Avenida George Orwell,Santa Cruz de Succhabamba,Cajamarca,13,26
+644,Calle Ernest Hemingway,Llama,Cajamarca,8,17
+645,Avenida F. Scott Fitzgerald,San Pablo,Cajamarca,19,23
+646,Calle Virginia Woolf,San Marcos,Cajamarca,20,6
+647,Avenida Toni Morrison,San José de Lourdes,Cajamarca,12,27
+648,Calle Mario Vargas Llosa,Encañada,Cajamarca,15,9
+649,Avenida Paulo Coelho,Huancavelica,Huancavelica,8,6
+650,Avenida Julio Cortázar,Pampas,Huancavelica,20,22
+651,Avenida Gabriel Mistral,Acobambilla,Huancavelica,19,12
+652,Calle Violeta Parra,Lircay,Huancavelica,15,10
+653,Avenida Pablo Picasso,Castrovirreyna,Huancavelica,18,21
+654,Calle Salvador Dalí,Huaytará,Huancavelica,17,17
+655,Avenida Joan Miró,Pilpichaca,Huancavelica,7,18
+656,Calle Antoni Gaudí,Izcuchaca,Huancavelica,6,28
+657,Avenida Francisco Goya,Ascensión,Huancavelica,8,26
+658,Calle Diego Velázquez,Cuenca,Huancavelica,17,30
+659,Avenida Pablo Neruda,Palca,Huancavelica,6,7
+660,Calle Gabriel García Márquez,Acostambo,Huancavelica,15,25
+661,Avenida Jorge Luis Borges,Ahuaycha,Huancavelica,16,9
+662,Calle Juan Rulfo,Acoria,Huancavelica,6,8
+663,Avenida Roberto Bolaño,Alcamenca,Huancavelica,7,27
+664,Calle Paulo Coelho,Huánuco,Huánuco,9,13
+665,Avenida Isabel Allende,Tingo María,Huánuco,14,10
+666,Calle Jorge Luis Borges,La Unión,Huánuco,14,22
+667,Calle Roberto Bolaño,Amarilis,Huánuco,8,11
+668,Avenida Carlos Fuentes,Pillco Marca,Huánuco,11,8
+669,Calle Ernesto Sabato,Churubamba,Huánuco,12,25
+670,Avenida Juan Rulfo,José Crespo y Castillo,Huánuco,10,8
+671,Calle Octavio Paz,Margos,Huánuco,8,25
+672,Avenida José Saramago,Marías,Huánuco,8,12
+673,Calle Isabel Allende,Yarumayo,Huánuco,9,18
+674,Avenida Mario Vargas Llosa,San Francisco de Cayrán,Huánuco,8,7
+675,Calle Julio Cortázar,San Miguel de Cauri,Huánuco,7,21
+676,Avenida Gabriel García Márquez,Pillao,Huánuco,15,10
+677,Calle del Chocolate Amargo,Amarilis,Huánuco,5,13
+678,Avenida de la Miel Dorada,Huánuco Pampa,Huánuco,12,18
+679,Calle del Queso Fresco,Ica,Ica,10,24
+680,Avenida de la Naranja Dulce,Pisco,Ica,9,23
+681,Calle del Helado de Vainilla,Chincha Alta,Ica,8,13
+682,Avenida del Salmón Ahumado,Nazca,Ica,19,30
+683,Calle del Pan Fresco,Marcona,Ica,11,22
+684,Avenida del Arroz Cocido,Paracas,Ica,5,21
+685,Calle del Té Verde,San Clemente,Ica,7,6
+686,Avenida de la Piña Fresca,Tate,Ica,11,7
+687,Calle del Filete de Ternera,Santiago,Ica,10,22
+688,Avenida de la Ensalada Verde,La Tinguiña,Ica,12,23
+689,Calle del Jugo de Naranja,Subtanjalla,Ica,16,5
+690,Avenida del Pastel de Manzana,San Juan Bautista,Ica,14,23
+691,Calle del Queso Cheddar,Los Aquijes,Ica,10,5
+692,Avenida del Sándwich de Pollo,Salas,Ica,19,19
+693,Calle del Sushi Fresco,Ocucaje,Ica,10,9
+694,Avenida del Pimiento Rojo,Trujillo,La libertad,6,17
+695,Calle del Helado de Fresa,Chepén,La libertad,11,25
+696,Avenida del Mango Maduro,Virú,La libertad,17,22
+697,Calle del Café Espresso,Pacasmayo,La libertad,17,30
+698,Avenida de la Pasta Fresca,Guadalupe,La libertad,20,30
+699,Calle del Bagel de Salmón,Huamachuco,La libertad,17,19
+700,Avenida del Yogur Natural,Otuzco,La libertad,17,12
+701,Calle del Aguacate Maduro,Santiago de Chuco,La libertad,8,17
+702,Avenida del Tomate Rojo,Ascope,La libertad,17,5
+703,Calle del Muffin de Arándanos,Paiján,La libertad,14,18
+704,Avenida de la Sandía Jugosa,Casa Grande,La libertad,8,27
+705,Calle del Té de Hierbabuena,Julcán,La libertad,19,5
+706,Avenida del Pollo a la Parrilla,Bolívar,La libertad,18,18
+707,Calle del Helado de Chocolate,Sánchez Carrión,La libertad,15,17
+708,Avenida del Sándwich de Atún,Tayabamba,La libertad,12,29
+709,Calle del Salmón Fresco,Huanchaco,La libertad,16,24
+710,Avenida del Arroz Integral,Laredo,La libertad,13,18
+711,Calle del Mango Maduro,Huamán,La libertad,6,12
+712,Avenida del Queso Parmesano,Salaverry,La libertad,19,28
+713,Calle del Pavo Asado,Poroto,La libertad,13,12
+714,Avenida del Jugo de Manzana,Cascas,La libertad,13,15
+715,Calle del Té de Limón,El Porvenir,La libertad,19,7
+716,Avenida de la Pizza Margarita,La Esperanza,La libertad,9,29
+717,Calle del Kiwi Fresco,Florencia de Mora,La libertad,20,9
+718,Avenida del Pan Integral,Chao,La libertad,9,29
+719,Calle del Arándano Fresco,Magdalena de Cao,La libertad,11,8
+720,Avenida de la Naranja Jugosa,Chicama,La libertad,19,18
+721,Calle del Salmón a la Parrilla,Moche,La libertad,19,17
+722,Avenida del Helado de Menta,Laredo,La libertad,5,29
+723,Calle del Tomate Maduro,San Pedro de Lloc,La libertad,7,12
+724,Avenida de la Pasta al Pesto,Pacanga,La libertad,8,22
+725,Calle del Sándwich de Pavo,Usquil,La libertad,8,25
+726,Avenida del Queso Gouda,Quiruvilca,La libertad,10,7
+727,Calle del Té de Jazmín,Sanagorán,La libertad,16,17
+728,Avenida del Arroz con Pollo,Simbal,La libertad,16,8
+729,Calle del Pastel de Zanahoria,Agallpampa,La libertad,15,10
+730,Avenida del Pan Multigrano,Buldibuyo,La libertad,19,30
+731,Calle del Jugo de Uva,Chillia,La libertad,12,20
+732,Avenida del Aguacate Maduro,Huabal,La libertad,18,24
+733,Calle del Helado de Caramelo,Huaso,La libertad,6,13
+734,Avenida de la Sopa de Tomate,Sitabamba,La libertad,15,20
+735,Calle del Pimiento Verde,Cajabamba,La libertad,5,17
+736,Avenida del Sándwich de Roast Beef,Namora,La libertad,6,19
+737,Calle del Sushi de Salmón,Catache,La libertad,12,10
+738,Avenida del Queso Brie,Marcabal,La libertad,17,13
+739,Calle del Té de Hibisco,Chugay,La libertad,7,30
+740,Avenida de la Pasta Carbonara,Cochabamba,La libertad,13,20
+741,Calle del Pescado Fresco,Curgos,La libertad,13,15
+742,Avenida del Yogur Griego,Gregorio Pita,La libertad,15,28
+743,Calle del Jugo de Frutas,Ichocán,La libertad,16,11
+744,Avenida del Kiwi Maduro,José Gálvez,La libertad,5,12
+745,Calle del Pan de Centeno,Lajas,La libertad,9,22
+746,Avenida del Pimiento Amarillo,Llama,La libertad,20,12
+747,Calle del Sándwich de Jamón,Longotea,La libertad,7,7
+748,Avenida del Queso Azul,Maray,La libertad,15,5
+749,Calle del Té de Rooibos,Oyón,La libertad,17,22
+750,Avenida de la Pasta Alfredo,San Benito,La libertad,17,5
+751,Calle del Pastel de Limón,Uchumarca,La libertad,10,26
+752,Avenida del Arroz con Vegetales,Urpay,La libertad,20,7
+753,Calle del Helado de Pistacho,Bambamarca,La libertad,19,5
+754,Avenida de la Ensalada César,Chugur,La libertad,7,21
+755,Calle del Pimiento Naranja,Hualgayoc,La libertad,11,11
+756,Avenida del Sándwich de Pavo y Queso,Bellavista,La libertad,18,12
+757,Calle del Sushi de Atún,El Tingo,La libertad,6,17
+758,Avenida del Queso de Cabra,Huaso,La libertad,15,8
+759,Calle del Té de Earl Grey,Llapa,La libertad,15,17
+760,Avenida de la Pasta Marinara,Pallasca,La libertad,8,5
+761,Calle del Pescado a la Parrilla,Santa Rosa,La libertad,11,13
+762,Avenida del Yogur de Fresa,Tauca,La libertad,11,28
+763,Calle del Jugo de Pera,Huamalíes,La libertad,12,11
+764,Calle del Pan de Ajo,Llata,La libertad,13,14
+765,Avenida del Pimiento Morado,Arancay,La libertad,5,23
+766,Calle del Sándwich de Pollo a la Parrilla,Colta,La libertad,8,20
+767,Avenida del Queso Cheddar Añejo,Huacar,La libertad,18,10
+768,Calle del Té Verde Matcha,Huamachuco,La libertad,9,12
+769,Avenida de la Pasta Primavera,La Unión,La libertad,13,12
+770,Calle del Pescado al Horno,Marías,La libertad,13,16
+771,Avenida del Yogur de Vainilla,Sartimbamba,La libertad,10,18
+772,Calle del Jugo de Ciruela,Sinsicap,La libertad,20,5
+773,Avenida del Sándwich de Roast Beef y Queso,Cachicadán,La libertad,16,8
+774,Calle del Sushi de Salmón y Aguacate,Cajabamba,La libertad,16,5
+775,Avenida del Queso Parmesano Reggiano,Calquis,La libertad,20,20
+776,Calle José Carlos Mariátegui,Quiruvilca,La libertad,20,7
+777,Avenida Ricardo Palma,San Marcos,La libertad,17,30
+778,Calle María Reiche,San Pedro,La libertad,18,16
+779,Avenida César Vallejo,Santiago de Chuco,La libertad,15,28
+780,Calle Francisco Bolognesi,Sitabamba,La libertad,12,17
+781,Avenida Javier Pérez de Cuéllar,Angasmarca,La libertad,12,16
+782,Calle Flora Tristán,Cachicadán,La libertad,8,12
+783,Avenida Víctor Raúl Haya de la Torre,Masma,La libertad,10,20
+784,Calle Raúl Porras Barrenechea,Mollepata,La libertad,13,10
+785,Avenida Rosa María Oliart,Quiruvilca,La libertad,7,18
+786,Avenida Martín Chambi,Santa Cruz de Chuca,La libertad,18,5
+787,Calle Chabuca Granda,Sitabamba,La libertad,19,14
+788,Avenida Pedro Paulet,Tayabamba,La libertad,10,30
+789,Calle Clorinda Matto de Turner,Urpay,La libertad,6,15
+790,Avenida Gastón Acurio,Casa Grande,La libertad,8,17
+791,Calle Valentina Shevchenko,Chicama,La libertad,10,23
+792,Avenida Julio C. Tello,Magdalena de Cao,La libertad,5,8
+793,Calle Victoria Santa Cruz,Paiján,La libertad,5,17
+794,Avenida Abraham Valdelomar,Rázuri,La libertad,15,5
+795,Calle Susana Baca,San Pedro de Lloc,La libertad,11,12
+796,Avenida José María Arguedas,Santiago de Cao,La libertad,13,28
+797,Calle Alfredo Bryce Echenique,Casa Grande,La libertad,17,24
+798,Avenida Micaela Bastidas,Chicama,La libertad,16,13
+799,Calle Teófilo Cubillas,Laredo,La libertad,10,22
+800,Calle Tilsa Lozano,Magdalena de Cao,La libertad,14,10
+801,Avenida Carlos Germán Belli,Paiján,La libertad,13,8
+802,Calle Yma Sumac,Rázuri,La libertad,8,29
+803,Avenida Pedro Pablo Kuczynski,Santiago de Cao,La libertad,16,8
+804,Calle Claudio Pizarro,Cochorco,La libertad,7,29
+805,Avenida Alberto Fujimori,Huamachuco,La libertad,12,28
+806,Calle Melissa Klug,Quiruvilca,La libertad,15,23
+807,Avenida Natalia Málaga,Sanagorán,La libertad,13,9
+808,Calle Julio Melgar,Sánchez Carrión,La libertad,19,6
+809,Avenida Augusto Polo Campos,Uchumarca,La libertad,6,15
+810,Calle Claudia Llosa,Urpay,La libertad,18,16
+811,Avenida Carlos Noriega,San José de Buldibuyo,La libertad,14,22
+812,Calle Magaly Solier,San Juan Bautista,La libertad,18,29
+813,Avenida Fernando de Szyszlo,Santa Cruz de Chuca,La libertad,9,26
+814,Calle Gian Marco,Santa María del Valle,La libertad,18,6
+815,Avenida Juan Diego Flórez,Santo Domingo de Anda,La libertad,8,25
+816,Calle Tondero,Taurija,La libertad,6,24
+817,Avenida Dina Páucar,Huamachuco,La libertad,8,17
+818,Calle Yola Polastri,Quiruvilca,La libertad,13,7
+819,Avenida Manuel Scorza,Sanagorán,La libertad,15,24
+820,Calle Natalie Vertiz,Sánchez Carrión,La libertad,20,23
+821,Avenida Juan Manuel Guillén,Uchumarca,La libertad,18,27
+822,Calle Eva Ayllón,Urpay,La libertad,13,20
+823,Avenida Óscar Avilés,Santa Cruz de Chuca,La libertad,12,9
+824,Calle Raúl Romero,Santo Domingo de Anda,La libertad,11,12
+825,Avenida Damaris Mallma,Taurija,La libertad,16,23
+826,Calle Teresa Izquierdo,Lambayeque,Lambayeque,12,5
+827,Avenida Guillermo Thorndike,Chiclayo,Lambayeque,20,12
+828,Calle Miki González,Ferreñafe,Lambayeque,9,27
+829,Avenida Pochita Morfón,José Leonardo Ortiz,Lambayeque,18,21
+830,Calle Renato Cisneros,Monsefú,Lambayeque,8,26
+831,Avenida Alejandro Toledo,Olmos,Lambayeque,20,20
+832,Calle Verónica Linares,Picsi,Lambayeque,19,21
+833,Avenida Tula Rodríguez,Pimentel,Lambayeque,9,6
+834,Calle Yolanda Medina,Pomalca,Lambayeque,17,26
+835,Avenida José Luis Pérez-Albela,Pucalá,Lambayeque,15,14
+836,Calle Jessica Newton,Reque,Lambayeque,5,13
+837,Avenida Marisol Espinoza,Santa Rosa,Lambayeque,11,28
+838,Calle Alfonso Ugarte,Saña,Lambayeque,7,11
+839,Avenida Modesto Montoya,Túcume,Lambayeque,13,11
+840,Calle Mariella Zanetti,Mochumí,Lambayeque,6,6
+841,Avenida Hugo Orellana Bonilla,Lagunas,Lambayeque,19,12
+842,Calle Carlos Alcántara,Íllimo,Lambayeque,5,30
+843,Avenida Natalia Salas,Motupe,Lambayeque,11,5
+844,Calle Gastón Acurio,Chongoyape,Lambayeque,10,18
+845,Avenida Lorena Álvarez,Salas,Lambayeque,16,17
+846,Calle Lucha Reyes,Incahuasi,Lambayeque,6,20
+847,Avenida Segundo Castillo,San José,Lambayeque,12,27
+848,Calle Manuelcha Prado,Cañaris,Lambayeque,6,20
+849,Avenida Rafael Larco Hoyle,Íllimo,Lambayeque,8,27
+850,Calle Úrsula Letona,Íllimo,Lambayeque,12,17
+851,Avenida Martín Adán,Mórrope,Lambayeque,5,9
+852,Calle Monsefú,Iquitos,Loreto,18,26
+853,Avenida Líbido,Yurimaguas,Loreto,5,30
+854,Calle Mariano Melgar,Requena,Loreto,18,21
+855,Avenida Dulce María,Contamana,Loreto,17,6
+856,Calle Alessandra Denegri,Nauta,Loreto,6,18
+857,Avenida Aldo Miyashiro,Caballococha,Loreto,18,5
+858,Calle Mariano Santos,Lagunas,Loreto,5,24
+859,Avenida Vania Bludau,Santa Clotilde,Loreto,6,22
+860,Calle Orlando Fundichely,San Antonio del Estrecho,Loreto,18,12
+861,Avenida Julinho,Mazán,Loreto,5,6
+862,Calle Doris Fundichely,Indiana,Loreto,10,22
+863,Avenida Marcelo Wong,Pebas,Loreto,15,23
+864,Calle Rosa María Palacios,Teniente Manuel Clavero,Loreto,20,21
+865,Avenida Gianella Neyra,Tamshiyacu,Loreto,9,12
+866,Calle Phillip Butters,Punchana,Loreto,14,16
+867,Avenida Marisela Puicon,Santo Tomás,Loreto,5,16
+868,Calle Christian Meier,Santa Rosa,Loreto,10,14
+869,Avenida Denisse Dibós,San Juan Bautista,Loreto,9,16
+870,Calle Gonzalo Torres,San Pablo,Loreto,8,29
+871,Avenida Stephanie Cayo,Amazonas,Loreto,14,20
+872,Calle Aldo Miyashiro,Saquena,Loreto,18,5
+873,Avenida Ethel Pozo,Puinahua,Loreto,6,25
+874,Calle Leonardo da Vinci,San Regis,Loreto,17,26
+875,Avenida Michelangelo Buonarroti,Isla Santa Rosa,Loreto,17,9
+876,Calle Raphael Sanzio,Santa Sofía,Loreto,8,28
+877,Avenida Rembrandt van Rijn,Vista Alegre,Loreto,8,16
+878,Calle Caravaggio,San Juan de Urifico,Loreto,10,17
+879,Avenida Johannes Vermeer,Isla Santa Rosa,Loreto,15,13
+880,Calle Sandro Botticelli,Francisco de Orellana,Loreto,17,24
+881,Avenida Diego Velázquez,Isla Santa Rosa,Loreto,15,9
+882,Calle Titian,Manacamiri,Loreto,12,13
+883,Avenida Albrecht Dürer,Vista Alegre,Loreto,5,27
+884,Avenida Hieronymus Bosch,Yarina,Loreto,16,5
+885,Calle Peter Paul Rubens,Zungarococha,Loreto,13,18
+886,Avenida Artemisia Gentileschi,Puerto Almendra,Loreto,5,12
+887,Calle Francisco Goya,Iquitos,Loreto,9,6
+888,Avenida William Turner,Belén,Loreto,8,6
+889,Calle Claude Monet,Nanay,Loreto,7,19
+890,Avenida Vincent van Gogh,Santa Clara,Loreto,19,25
+891,Calle Paul Cézanne,Barranca,Loreto,8,11
+892,Avenida Pierre-Auguste Renoir,Mazán,Loreto,18,20
+893,Calle Edgar Degas,Orán,Loreto,18,26
+894,Avenida Mary Cassatt,Tamshiyacu,Loreto,10,7
+895,Calle Édouard Manet,Santo Tomás,Loreto,10,25
+896,Avenida Camille Pissarro,San José de Lupuna,Loreto,10,9
+897,Calle Berthe Morisot,Huapapa,Loreto,9,6
+898,Avenida Gustave Courbet,Vargas Guerra,Loreto,5,28
+899,Calle Jean-François Millet,Parinari,Loreto,12,19
+900,Avenida Georges Seurat,Victoria,Loreto,15,19
+901,Calle Paul Gauguin,Iquitos,Loreto,8,30
+902,Avenida Henri Matisse,Alto Nanay,Loreto,17,15
+903,Avenida Wassily Kandinsky,Llanchama,Loreto,14,14
+904,Avenida Frida Kahlo,Ninarumi,Loreto,10,28
+905,Calle Diego Rivera,Dos de Mayo,Loreto,14,25
+906,Avenida Georgia O'Keeffe,Nauta,Loreto,18,15
+907,Calle Edward Hopper,Ninarumi,Loreto,6,27
+908,Avenida Jackson Pollock,Yarina,Loreto,14,21
+909,Calle Mark Rothko,Napo,Loreto,13,7
+910,Avenida Willem de Kooning,Pintuyacu,Loreto,14,13
+911,Calle Piet Mondrian,Santa Rosa de Belén,Loreto,5,13
+912,Calle René Magritte,Mazán,Loreto,18,25
+913,Avenida Max Ernst,Isla Santa Rosa,Loreto,6,22
+914,Calle Marc Chagall,Quebrada Seca,Loreto,14,23
+915,Avenida Paul Klee,Nuevo Sueño,Loreto,10,21
+916,Calle Gustav Klimt,Amazonas,Loreto,15,11
+917,Avenida Egon Schiele,Isla Santa Rosa,Loreto,8,23
+918,Calle Alphonse Mucha,Manacamiri,Loreto,13,25
+919,Avenida Henri de Toulouse-Lautrec,Pucallpa,Loreto,18,30
+920,Calle Édouard Vuillard,Isla Santa Rosa,Loreto,10,7
+921,Avenida Gustave Caillebotte,Huipoca,Loreto,6,23
+922,Calle Félix Vallotton,Iquitos,Loreto,6,21
+923,Avenida Pierre Bonnard,Llanchama,Loreto,13,16
+924,Calle Édouard Detaille,La Victoria,Loreto,16,19
+925,Avenida Camille Claudel,Puente Nauta,Loreto,8,15
+926,Calle Auguste Rodin,Puerto Libertad,Loreto,8,6
+927,Avenida Jean-Antoine Houdon,San Carlos,Loreto,14,28
+928,Calle Antonio Canova,Pebas,Loreto,14,17
+929,Avenida Gian Lorenzo Bernini,Isla Santa Rosa,Loreto,13,30
+930,Calle Michelangelo Merisi da Caravaggio,La Restinga,Loreto,13,11
+931,Avenida Donatello,Isla Santa Rosa,Loreto,12,24
+932,Calle Giovanni Bellini,San Juan de Urifico,Loreto,17,30
+933,Avenida Sandro Botticelli,Isla Santa Rosa,Loreto,6,19
+934,Calle Fra Angelico,Otorongo,Loreto,9,21
+935,Avenida Giotto di Bondone,Pucallpa,Loreto,6,7
+936,Calle Jan van Eyck,Isla Santa Rosa,Loreto,14,9
+937,Avenida Pieter Bruegel the Elder,Iquitos,Loreto,15,19
+938,Calle Hieronymus Bosch,Bella Vista Nanay,Loreto,9,20
+939,Avenida Lucas Cranach the Elder,Orán,Loreto,19,12
+940,Calle Albrecht Dürer,Cahuide,Loreto,11,12
+941,Avenida Hans Holbein the Younger,Libertad,Loreto,18,7
+942,Calle El Greco,Padre Cocha,Loreto,10,26
+943,Avenida Peter Paul Rubens,Varadero,Loreto,16,15
+944,Calle Anthony van Dyck,Buenos Aires,Loreto,16,6
+945,Avenida Frans Hals,San Antonio,Loreto,8,13
+946,Calle Johannes Vermeer,Pebas,Loreto,9,5
+947,Avenida Gerrit Dou,Villa América,Loreto,16,13
+948,Calle Rembrandt van Rijn,La Aviación,Loreto,12,22
+949,Avenida Judith Leyster,Nueva Esperanza,Loreto,16,16
+950,Calle Willem Claeszoon Heda,Pampa Hermosa,Loreto,5,6
+951,Avenida Willem Kalf,San Juan de Mocagua,Loreto,7,26
+952,Calle Pieter de Hooch,Puerto Maldonado,Madre de Dios,9,6
+953,Avenida Jan Steen,Tambopata,Madre de Dios,18,23
+954,Calle Jacob van Ruisdael,Iberia,Madre de Dios,16,30
+955,Avenida Meindert Hobbema,Laberinto,Madre de Dios,14,29
+956,Calle J.M.W. Turner,Inambari,Madre de Dios,16,6
+957,Avenida John Constable,Fitzcarrald,Madre de Dios,5,8
+958,Calle William Blake,Las Piedras,Madre de Dios,6,20
+959,Avenida George Stubbs,Boca Manu,Madre de Dios,8,13
+960,Calle Thomas Gainsborough,Shintuya,Madre de Dios,7,20
+961,Avenida Joshua Reynolds,Salvación,Madre de Dios,7,9
+962,Calle Johann Zoffany,Palma Real,Madre de Dios,5,14
+963,Avenida Angelica Kauffman,Boca Colorado,Madre de Dios,15,8
+964,Calle Benjamin West,Madre de Dios,Madre de Dios,7,5
+965,Avenida Gilbert Stuart,Carabaya,Madre de Dios,10,30
+966,Calle John Singleton Copley,Colorado,Madre de Dios,17,22
+967,Avenida Charles Willson Peale,Cocha Cashu,Madre de Dios,5,7
+968,Maple Avenue,Boca Pariamanu,Madre de Dios,7,28
+969,Elm Street,Boca Tapada,Madre de Dios,19,28
+970,Cedar Drive,San José de Saramuro,Madre de Dios,13,14
+971,Pine Road,Puerto Azul,Madre de Dios,12,26
+972,Birch Street,Planchón,Madre de Dios,12,10
+973,Willow Way,Sachavacayoc,Madre de Dios,13,27
+974,Walnut Boulevard,Tahuamanu,Madre de Dios,8,30
+975,Ash Court,Victoria,Madre de Dios,11,8
+976,Sycamore Lane,Mavila,Madre de Dios,12,22
+977,Cherry Avenue,Esperanza,Madre de Dios,9,22
+978,Magnolia Drive,Infierno,Madre de Dios,20,27
+979,Cypress Road,Manu,Madre de Dios,14,9
+980,Spruce Street,Diamante Azul,Madre de Dios,10,21
+981,Juniper Lane,Salvación,Madre de Dios,9,22
+982,Holly Avenue,Chalalán,Madre de Dios,10,27
+983,Redwood Drive,Tacuaral,Madre de Dios,10,18
+984,Laurel Lane,Huitoto,Madre de Dios,5,27
+985,Hawthorn Street,Carachamayo,Madre de Dios,12,9
+986,Aspen Court,Palmeras,Madre de Dios,17,10
+987,Beech Avenue,Portillo,Madre de Dios,15,24
+988,Mulberry Road,San Juan del Oro,Madre de Dios,8,24
+989,Acacia Drive,San Lorenzo,Madre de Dios,15,23
+990,Locust Lane,La Florida,Madre de Dios,14,21
+991,Dogwood Avenue,Vista Alegre,Madre de Dios,6,17
+992,Cedar Court,Trincheras,Madre de Dios,8,8
+993,Birch Road,Yahuasca,Madre de Dios,7,15
+994,Willow Lane,Condenado,Madre de Dios,5,7
+995,Oak Street,Puerto Arturo,Madre de Dios,15,6
+996,Elm Avenue,Nueva Bilbao,Madre de Dios,17,18
+997,Maple Lane,Esperanza,Madre de Dios,18,16
+998,Pine Street,Lago Valencia,Madre de Dios,20,11
+999,Walnut Drive,Buenavista,Madre de Dios,12,10
+1000,Ash Avenue,Villa Rica,Madre de Dios,7,21
+1001,Sycamore Road,Palma Real,Madre de Dios,13,12
+1002,Chestnut Street,Otorongo,Madre de Dios,12,22
+1003,Poplar Lane,San Carlos de Río Inambari,Madre de Dios,7,20
+1004,Cherry Drive,Nueva Luz,Madre de Dios,14,17
+1005,Magnolia Street,Boca Amigo,Madre de Dios,9,8
+1006,Cypress Lane,Ciudad Constitución,Madre de Dios,14,5
+1007,Spruce Drive,Nueva Esperanza,Madre de Dios,19,8
+1008,Juniper Street,Santa Rosa,Madre de Dios,5,12
+1009,Holly Lane,Casa Blanca,Madre de Dios,12,20
+1010,Redwood Avenue,La Pampa,Madre de Dios,6,20
+1011,Laurel Street,Puerto Luz,Madre de Dios,17,16
+1012,Hawthorn Lane,La Punta,Madre de Dios,7,20
+1013,Aspen Road,Puerto Almendra,Madre de Dios,16,17
+1014,Beech Street,El Estrecho,Madre de Dios,12,28
+1015,Alder Lane,Isuyama,Madre de Dios,19,5
+1016,Mulberry Lane,San Juan de Isuyama,Madre de Dios,16,15
+1017,Acacia Street,Nueva Requena,Madre de Dios,16,18
+1018,Fir Lane,San Ramón,Madre de Dios,17,12
+1019,Locust Street,Los Amigos,Madre de Dios,7,15
+1020,Dogwood Lane,Huitoto,Madre de Dios,16,5
+1021,Cedar Road,Cabeza de Toro,Madre de Dios,12,30
+1022,Birch Lane,San Rafael,Madre de Dios,15,7
+1023,Oak Lane,Pueblo Libre,Madre de Dios,17,13
+1024,Elm Drive,Nuevo San Juan,Madre de Dios,6,27
+1025,Maple Street,Monte Azul,Madre de Dios,10,11
+1026,Pine Lane,Frontera,Madre de Dios,11,22
+1027,Walnut Street,Nuevo Edén,Madre de Dios,9,9
+1028,Ash Lane,Paso Las Piedras,Madre de Dios,11,30
+1029,Sycamore Avenue,Llave,Madre de Dios,17,21
+1030,Chestnut Drive,Santa Rosa,Madre de Dios,16,26
+1031,Poplar Road,Moquegua (capital regional),Moquegua,8,25
+1032,Magnolia Avenue,Ilo,Moquegua,10,6
+1033,Cypress Drive,Torata,Moquegua,11,8
+1034,Spruce Lane,Carumas,Moquegua,11,23
+1035,Juniper Avenue,Cuchumbaya,Moquegua,15,8
+1036,Holly Drive,Samegua,Moquegua,8,19
+1037,Redwood Lane,San Cristóbal,Moquegua,17,17
+1038,Laurel Avenue,Puquina,Moquegua,12,16
+1039,Hawthorn Drive,Omate,Moquegua,6,12
+1040,Aspen Lane,Chojata,Moquegua,7,16
+1041,Beech Road,Coalaque,Moquegua,19,23
+1042,Alder Street,Ichuña,Moquegua,14,21
+1043,Mulberry Drive,Lloque,Moquegua,6,28
+1044,Acacia Lane,Puquios,Moquegua,15,25
+1045,Fir Street,Quinistaquillas,Moquegua,13,11
+1046,Locust Drive,Ubinas,Moquegua,20,27
+1047,Dogwood Road,Yunga,Moquegua,14,14
+1048,Cedar Lane,Chacaruta,Moquegua,9,29
+1049,Birch Drive,Ullujaya,Moquegua,11,21
+1050,Willow Street,La Capilla,Moquegua,16,5
+1051,Oak Avenue,Matalaque,Moquegua,6,18
+1052,Elm Lane,San Francisco de Osmore,Moquegua,11,24
+1053,Maple Drive,Ticaco,Moquegua,12,16
+1054,Pine Avenue,Cerro de Pasco (capital regional),Pasco,6,16
+1055,Walnut Lane,Yanahuanca,Pasco,8,27
+1056,Ash Street,Chaupimarca,Pasco,5,28
+1057,Sycamore Drive,Villa Rica,Pasco,14,26
+1058,Chestnut Lane,Ninacaca,Pasco,20,15
+1059,Poplar Street,Ticlacayan,Pasco,17,13
+1060,Cherry Lane,Tinyahuarco,Pasco,13,25
+1061,Meadowbrook Lane,Huachón,Pasco,18,10
+1062,Willow Creek Drive,Simón Bolívar,Pasco,12,7
+1063,Oakwood Avenue,Huariaca,Pasco,5,17
+1064,Cedar Ridge Road,Pallanchacra,Pasco,11,11
+1065,Pinecrest Boulevard,Goyllarisquizga,Pasco,6,16
+1066,Birchwood Court,Santa Ana de Tusi,Pasco,5,9
+1067,Maple Grove Street,Vicco,Pasco,11,30
+1068,Elmwood Terrace,Huayllay,Pasco,14,17
+1069,Holly Hill Road,Paucartambo,Pasco,6,19
+1070,Ashwood Lane,Yanacancha,Pasco,14,16
+1071,Sycamore Lane South,Chacayan,Pasco,11,15
+1072,Chestnut Ridge Drive,Simón Bolívar,Pasco,20,13
+1073,Dogwood Lane East,Huachon,Pasco,18,22
+1074,Sunflower Circle West,Chontabamba,Pasco,7,17
+1075,Magnolia Way North,Yanahuanca,Pasco,16,12
+1076,Riverdale Drive West,Ticlacayan,Pasco,10,25
+1077,Lakeside Drive East,Huariaca,Pasco,16,24
+1078,Brookside Avenue South,Simón Bolívar,Pasco,12,30
+1079,Greenfield Terrace North,Túpac Amaru,Pasco,8,8
+1080,Springdale Court West,Simón Bolívar,Pasco,18,20
+1081,Woodland Avenue East,Yanacancha,Pasco,12,8
+1082,Summerfield Lane South,Simón Bolívar,Pasco,9,30
+1083,Briarwood Drive North,Simón Bolívar,Pasco,11,15
+1084,Fairview Road East,Ticlacayan,Pasco,18,17
+1085,Parkview Drive West,Ninacaca,Pasco,6,20
+1086,Oakhurst Lane South,Simón Bolívar,Pasco,8,21
+1087,Willowbrook Avenue East,Chontabamba,Pasco,11,27
+1088,Pinehurst Road North,Ticlacayan,Pasco,14,11
+1089,Lakeview Drive West,Simón Bolívar,Pasco,12,24
+1090,Ridgeview Terrace South,Yanacancha,Pasco,20,23
+1091,Meadowlark Lane East,Huayllay,Pasco,11,11
+1092,Birchwood Circle North,Simón Bolívar,Pasco,10,5
+1093,Maplewood Drive West,Huariaca,Pasco,15,19
+1094,Cedarwood Court East,Ninacaca,Pasco,7,19
+1095,Magnolia Lane South,Ticlacayan,Pasco,19,25
+1096,Sunset Boulevard East,Yanacancha,Pasco,18,13
+1097,Forest Hills Road West,Chontabamba,Pasco,12,24
+1098,Hillcrest Avenue South,Simón Bolívar,Pasco,19,14
+1099,Riverside Drive North,Ninacaca,Pasco,6,30
+1100,Orchard Street East,Simón Bolívar,Pasco,7,25
+1101,Heatherwood Lane South,Huariaca,Pasco,10,18
+1102,Meadowbrook Court East,Yanacancha,Pasco,11,16
+1103,Rosewood Drive West,Chontabamba,Pasco,8,6
+1104,Woodridge Lane North,Piura,Piura,19,27
+1105,Brookside Court East,Sullana,Piura,17,28
+1106,Oakwood Terrace South,Talara,Piura,18,28
+1107,Pinecrest Avenue West,Paita,Piura,20,13
+1108,Lakeshore Drive North,Chulucanas,Piura,9,10
+1109,Cedar Ridge Lane East,Catacaos,Piura,19,25
+1110,Willow Creek Road South,Sechura,Piura,15,30
+1111,Holly Hill Drive West,Ayabaca,Piura,18,21
+1112,Sycamore Lane North,Huancabamba,Piura,15,20
+1113,Chestnut Ridge Court East,Morropón,Piura,15,21
+1114,Dogwood Lane West,Marcavelica,Piura,9,14
+1115,Sunflower Circle East,La Unión,Piura,16,16
+1116,Magnolia Way South,Castilla,Piura,7,11
+1117,Riverdale Drive North,Veintiséis de Octubre,Piura,20,27
+1118,Lakeside Court East,Tambogrande,Piura,6,27
+1119,Brookside Lane South,Ignacio Escudero,Piura,8,7
+1120,Greenfield Drive West,Buenos Aires,Piura,12,7
+1121,Springdale Road North,Cristo Nos Valga,Piura,5,7
+1122,Woodland Court East,Frías,Piura,12,14
+1123,Summerfield Drive South,Cura Mori,Piura,10,10
+1124,Briarwood Circle North,Bellavista de la Unión,Piura,5,28
+1125,Fairview Lane East,Lancones,Piura,14,10
+1126,Parkview Terrace West,El Carmen de la Frontera,Piura,11,27
+1127,Oakhurst Drive South,Sapillica,Piura,17,20
+1128,Willowbrook Court East,Las Lomas,Piura,18,10
+1129,Pinehurst Lane North,Tambogrande,Piura,17,30
+1130,Lakeview Terrace West,San Miguel de El Faique,Piura,9,6
+1131,Ridgeview Drive South,Miguel Checa,Piura,16,27
+1132,Meadowlark Circle East,Salitral,Piura,7,9
+1133,Birchwood Drive North,Montero,Piura,20,5
+1134,Maplewood Court West,Chalaco,Piura,19,21
+1135,Cedarwood Lane East,Amotape,Piura,19,19
+1136,Magnolia Court South,El Arenal,Piura,18,22
+1137,Sunset Drive East,La Huaca,Piura,18,15
+1138,Forest Hills Lane West,La Brea,Piura,9,7
+1139,Hillcrest Court South,San Andrés,Piura,9,22
+1140,Riverside Lane North,Los Órganos,Piura,9,21
+1141,Orchard Lane East,El Alto,Piura,12,14
+1142,Heatherwood Drive South,Lobitos,Piura,19,24
+1143,Meadowbrook Way East,Vice,Piura,15,12
+1144,Rosewood Lane West,Marcavelica,Piura,12,28
+1145,Woodridge Court North,Salitral,Piura,6,25
+1146,Brookside Way East,Los Órganos,Piura,5,27
+1147,Oakwood Drive South,La Matanza,Piura,6,23
+1148,Pinecrest Court West,La Arena,Piura,10,11
+1149,Lakeshore Lane North,Pariñas,Piura,20,7
+1150,Cedar Ridge Circle East,Catacaos,Piura,17,13
+1151,Willow Creek Lane South,Paita,Piura,19,28
+1152,Holly Hill Court West,Castilla,Piura,5,15
+1153,Sycamore Court North,Puno,Puno,8,12
+1154,Chestnut Ridge Way East,Juliaca,Puno,6,11
+1155,Dogwood Court West,Juli,Puno,17,17
+1156,Sunflower Circle Drive East,Ilave,Puno,16,25
+1157,Magnolia Way Lane South,Ayaviri,Puno,11,27
+1158,Riverdale Drive Place North,Azángaro,Puno,19,17
+1159,Lakeside Court Avenue East,Lampa,Puno,19,10
+1160,Brookside Lane Street East,Macusani,Puno,15,9
+1161,Green Valley,Desaguadero,Puno,10,14
+1162,Blue Ridge,Huancané,Puno,19,15
+1163,Sunny Hill,Moho,Puno,15,24
+1164,River Bank,Yunguyo,Puno,6,21
+1165,Meadow Lane,Putina,Puno,20,26
+1166,Willow Creek,Sandia,Puno,15,5
+1167,Cedar Hollow,Huancané,Puno,6,29
+1168,Oak Ridge,Pomata,Puno,20,10
+1169,Elm Grove,Coata,Puno,20,15
+1170,Birch Wood,Plateria,Puno,13,9
+1171,Rose Garden,Crucero,Puno,8,5
+1172,Lily Pond,Tiquillaca,Puno,12,16
+1173,Poppy Field,Capachica,Puno,11,26
+1174,Orchid Way,Mañazo,Puno,5,13
+1175,Lavender Lane,Paucarcolla,Puno,11,6
+1176,Magnolia Way,Pisacoma,Puno,17,22
+1177,Sunflower Way,Vilque,Puno,13,20
+1178,Rosewood Avenue,Atuncolla,Puno,19,10
+1179,Elm Court,Ananea,Puno,9,22
+1180,Violet Court,Carabaya,Puno,18,25
+1181,Daisy Court,Conima,Puno,7,24
+1182,Lily Court,Huata,Puno,16,27
+1183,Sunflower Court,Pichacani,Puno,8,9
+1184,Orchid Court,San Antonio de Putina,Puno,12,16
+1185,Tulip Court,San José,Puno,12,14
+1186,Rose Court,Santa Lucía,Puno,7,14
+1187,Magnolia Court,Tusi,Puno,19,16
+1188,Jasmine Court,Vilque Chico,Puno,11,27
+1189,Iris Court,Pilcuyo,Puno,13,29
+1190,Oak Court,Conima,Puno,5,13
+1191,Violet Street,Pilcuyo,Puno,19,30
+1192,Daisy Street,Capazo,Puno,7,28
+1193,Lily Street,Vilque,Puno,18,20
+1194,Sunflower Street,San Juan,Puno,11,24
+1195,Orchid Street,Zepita,Puno,9,7
+1196,Tulip Street,San Antón,Puno,11,19
+1197,Rose Street,Juli,Puno,14,8
+1198,Jasmine Street,Cojata,Puno,15,18
+1199,Iris Street,Crucero,Puno,7,30
+1200,Cedar Street,Ácora,Puno,8,16
+1201,Willow Avenue,Santa Rosa,Puno,10,9
+1202,Birch Avenue,Pichacani,Puno,17,29
+1203,Violet Avenue,Capachica,Puno,20,5
+1204,Daisy Avenue,Potoni,Puno,16,5
+1205,Lily Avenue,Paucarcolla,Puno,5,20
+1206,Sunflower Avenue,Nuñoa,Puno,19,10
+1207,Orchid Avenue,Asillo,Puno,20,29
+1208,Tulip Avenue,Vilque,Puno,14,22
+1209,Rose Avenue,Pusi,Puno,16,6
+1210,Jasmine Avenue,Taraco,Puno,10,28
+1211,Iris Avenue,Samán,Puno,6,13
+1212,Cedar Avenue,Vilque,Puno,13,15
+1213,Violet Lane,Pisacoma,Puno,8,16
+1214,Daisy Lane,Ananea,Puno,9,11
+1215,Lily Lane,Ananea,Puno,11,24
+1216,Sunflower Lane,San Juan,Puno,5,9
+1217,Orchid Lane,Llusco,Puno,15,16
+1218,Tulip Lane,Capazo,Puno,12,28
+1219,Rose Lane,San Pedro de Putina Punco,Puno,7,25
+1220,Magnolia Lane,San Juan del Oro,Puno,10,22
+1221,Jasmine Lane,Atuncolla,Puno,19,16
+1222,Iris Lane,Conduriri,Puno,13,22
+1223,Willow Court,Cabanillas,Puno,18,27
+1224,Pine Court,Pusi,Puno,11,20
+1225,Fox Run,Chupa,Puno,13,19
+1226,Deer Path,Cojata,Puno,6,16
+1227,Bear Creek,Huacullani,Puno,6,21
+1228,Wolf Street,Santa Rosa,Puno,11,7
+1229,Eagle Avenue,Cuyocuyo,Puno,7,17
+1230,Hawk Lane,Kelluyo,Puno,19,13
+1231,Rabbit Run,Tiquillaca,Puno,13,30
+1232,Otter Trail,Mazocruz,Puno,9,12
+1233,Badger Way,Antauta,Puno,9,27
+1234,Moose Drive,Vilque,Puno,11,22
+1235,Coyote Court,Zepita,Puno,8,27
+1236,Beaver Lane,Taraco,Puno,6,17
+1237,Falcon Road,Acora,Puno,16,29
+1238,Lion Avenue,Capachica,Puno,6,12
+1239,Tiger Terrace,Huatasani,Puno,8,11
+1240,Panther Path,Mañazo,Puno,10,22
+1241,Dolphin Drive,Coata,Puno,5,23
+1242,Whale Way,Capazo,Puno,19,21
+1243,Shark Street,Cuyo Cuyo,Puno,20,17
+1244,Octopus Lane,Moho,Puno,9,14
+1245,Jellyfish Drive,Paucarcolla,Puno,17,16
+1246,Seahorse Court,Vilque Chico,Puno,13,21
+1247,Penguin Place,Pomata,Puno,19,6
+1248,Elephant Lane,Tilali,Puno,7,9
+1249,Giraffe Grove,Capazo,Puno,16,24
+1250,Zebra Avenue,Tiquillaca,Puno,5,9
+1251,Rhino Road,Acora,Puno,16,6
+1252,Hippo Lane,Kelluyo,Puno,12,24
+1253,Gorilla Way,Moyobamba (capital regional),San Martin,5,5
+1254,Chimpanzee Trail,Tarapoto,San Martin,6,19
+1255,Koala Court,Juanjuí,San Martin,17,28
+1256,Kangaroo Drive,Bellavista,San Martin,20,25
+1257,Platypus Path,Tocache,San Martin,20,13
+1258,Tasmanian Devil Lane,Rioja,San Martin,11,20
+1259,Crocodile Creek,Lamas,San Martin,17,9
+1260,Alligator Alley,Saposoa,San Martin,18,26
+1261,Snake Street,Picota,San Martin,18,20
+1262,Lizard Lane,Nueva Cajamarca,San Martin,5,16
+1263,Turtle Terrace,Morales,San Martin,13,6
+1264,Frog Way,Moyobamba,San Martin,17,14
+1265,Toad Trail,Bellavista,San Martin,18,13
+1266,Salamander Street,Juanjuí,San Martin,20,9
+1267,Newt Lane,Rioja,San Martin,17,27
+1268,Gecko Grove,Tocache,San Martin,6,12
+1269,Chameleon Court,Lamas,San Martin,8,19
+1270,Tarantula Trail,Picota,San Martin,8,28
+1271,Scorpion Street,Moyobamba,San Martin,19,5
+1272,Spider Lane,Tarapoto,San Martin,15,10
+1273,Beetle Avenue,Juanjuí,San Martin,6,21
+1274,Butterfly Drive,Bellavista,San Martin,5,25
+1275,Dragonfly Lane,Tocache,San Martin,10,22
+1276,Firefly Way,Picota,San Martin,17,5
+1277,Ladybug Lane,Rioja,San Martin,9,17
+1278,Grasshopper Grove,Nueva Cajamarca,San Martin,12,30
+1279,Cricket Court,La Banda de Shilcayo,San Martin,5,6
+1280,Ant Street,Saposoa,San Martin,6,28
+1281,Bee Lane,Moyobamba,San Martin,13,12
+1282,Wasp Way,Lamas,San Martin,19,18
+1283,Hornet Trail,Tarapoto,San Martin,13,16
+1284,Moth Avenue,Morales,San Martin,14,9
+1285,Caterpillar Lane,Moyobamba,San Martin,6,16
+1286,Worm Way,Tarapoto,San Martin,11,26
+1287,Snail Street,Juanjuí,San Martin,14,22
+1288,Slug Lane,Bellavista,San Martin,15,5
+1289,Centipede Court,Tocache,San Martin,12,5
+1290,Millipede Drive,Nueva Cajamarca,San Martin,20,22
+1291,Horse Lane,Rioja,San Martin,15,26
+1292,Cow Way,Picota,San Martin,14,28
+1293,Pig Path,Lamas,San Martin,15,29
+1294,Sheep Street,Saposoa,San Martin,20,7
+1295,Goat Grove,Moyobamba,San Martin,11,29
+1296,Chicken Court,Tarapoto,San Martin,15,8
+1297,Duck Drive,Juanjuí,San Martin,18,5
+1298,Goose Avenue,Bellavista,San Martin,13,8
+1299,Turkey Terrace,Tocache,San Martin,14,6
+1300,Quail Lane,Rioja,San Martin,18,24
+1301,Pheasant Path,Nueva Cajamarca,San Martin,8,27
+1302,Partridge Street,Lamas,San Martin,14,22
+1303,Dove Drive,Tacna,Tacna,12,10
+1304,Swan Way,Ciudad Nueva,Tacna,15,17
+1305,Robin Lane,Pocollay,Tacna,15,21
+1306,Cardinal Court,Calana,Tacna,11,28
+1307,Bluebird Drive,Ilabaya,Tacna,12,12
+1308,Jay Street,Locumba,Tacna,8,12
+1309,Sparrow Lane,Palca,Tacna,19,8
+1310,Finch Way,Sama,Tacna,10,18
+1311,Oriole Terrace,Tarata,Tacna,8,11
+1312,Woodpecker Path,Candarave,Tacna,14,24
+1313,Hummingbird Street,Susapaya,Tacna,12,17
+1314,Eagle Lane,Estique,Tacna,15,26
+1315,Hawk Avenue,Ticaco,Tacna,18,26
+1316,Osprey Trail,Héroes Albarracín,Tacna,17,29
+1317,Falcon Grove,Sitajara,Tacna,14,18
+1318,Owl Court,Sama Inclán,Tacna,19,28
+1319,Vulture Drive,Uchusuma,Tacna,10,22
+1320,Crow Lane,Camilaca,Tacna,18,15
+1321,Raven Way,Cairani,Tacna,6,29
+1322,Magpie Street,Curibaya,Tacna,5,8
+1323,Parrot Terrace,Chucatamani,Tacna,13,27
+1324,Toucan Court,Quilahuani,Tacna,15,16
+1325,Dolphin Cove,Ite,Tacna,18,7
+1326,Coyote Crossing,Curibaya,Tacna,10,9
+1327,Wolf Hollow,Camilaca,Tacna,6,21
+1328,Eagle Nest,Ticaco,Tacna,19,9
+1329,Moose Crossing,Quilahuani,Tacna,8,20
+1330,Lion's Den,Ite,Tacna,16,6
+1331,Deer Run,Estique Pampa,Tacna,8,15
+1332,Tiger Trail,Candarave,Tacna,12,17
+1333,Rabbit Lane,Ticaco,Tacna,5,28
+1334,Snake Creek,Quilahuani,Tacna,7,17
+1335,Beaver Creek,Ite,Tacna,18,23
+1336,Turtle Pond,Estique,Tacna,6,12
+1337,Squirrel Way,Sama Inclán,Tacna,9,26
+1338,Bobcat Boulevard,Camilaca,Tacna,17,6
+1339,Gopher Grove,Curibaya,Tacna,10,19
+1340,Butterfly Lane,Cairani,Tacna,8,7
+1341,Heron Point,Ticaco,Tacna,9,19
+1342,Wren Avenue,Ite,Tacna,14,20
+1343,Bat Cave,Curibaya,Tacna,10,22
+1344,Cougar Creek,Estique Pampa,Tacna,8,25
+1345,Falconer's Way,Chucatamani,Tacna,10,26
+1346,Lynx Lane,Quilahuani,Tacna,18,5
+1347,Sparrow Street,Ite,Tacna,15,5
+1348,Panther Pass,Estique Pampa,Tacna,20,30
+1349,Dragonfly Drive,Ticaco,Tacna,16,27
+1350,Bluebird Lane,Chucatamani,Tacna,20,28
+1351,Moose Meadow,Quilahuani,Tacna,19,7
+1352,Bear Ridge,Estique Pampa,Tacna,11,13
+1353,Fox Hollow,Tumbes (capital regional),Tumbes,8,9
+1354,Eagle's Perch,Zarumilla,Tumbes,11,21
+1355,Snake Trail,Aguas Verdes,Tumbes,20,23
+1356,Coyote Corner,Papayal,Tumbes,18,29
+1357,Badger Lane,San Jacinto,Tumbes,6,19
+1358,Falcon Crest,Corrales,Tumbes,18,5
+1359,Otter Lane,Matapalo,Tumbes,14,10
+1360,Heron Hill,Pampa Grande,Tumbes,15,30
+1361,Beaver Bend,Puerto Pizarro,Tumbes,9,15
+1362,Tiger Tail,Cañaveral,Tumbes,6,29
+1363,Hawk Haven,Cuzumbá,Tumbes,19,9
+1364,Bobcat Bend,Pampas de Hospital,Tumbes,10,6
+1365,Squirrel Lane,San Pedro,Tumbes,20,18
+1366,Wren Way,La Cruz,Tumbes,20,16
+1367,Cougar Crossing,San Juan de la Virgen,Tumbes,9,28
+1368,Sparrow Court,Zorritos,Tumbes,11,17
+1369,Bluebird Boulevard,Casitas,Tumbes,19,21
+1370,Moose Mountain,Canoas de Punta Sal,Tumbes,7,14
+1371,Bear Hollow,Loma de Punta Sal,Tumbes,19,25
+1372,Eagle Crest,Puerto Rico,Tumbes,7,13
+1373,Snake Lane,El Tunal,Tumbes,12,26
+1374,Coyote Trail,Jeli,Tumbes,17,29
+1375,Butterfly Avenue,San Pablo,Tumbes,20,16
+1376,Badger Bend,Bellavista,Tumbes,13,19
+1377,Owl Hollow,La Cruz,Tumbes,13,7
+1378,Falconer's Lane,Cañaveral,Tumbes,5,12
+1379,Otter Ridge,Puerto Pizarro,Tumbes,5,6
+1380,Heron Creek,San Jacinto,Tumbes,15,23
+1381,Beaver Trail,Loma de Corrales,Tumbes,20,18
+1382,Hawk Ridge,Papayal,Tumbes,11,29
+1383,Bobcat Lane,San Pedro,Tumbes,16,27
+1384,Squirrel Drive,Corrales,Tumbes,6,7
+1385,Lynx Loop,Las Lomas,Tumbes,9,27
+1386,Wren Street,Tumbes,Tumbes,7,7
+1387,Cougar Cove,Zarumilla,Tumbes,6,17
+1388,Sparrow Circle,Aguas Verdes,Tumbes,7,18
+1389,Dragonfly Court,Bocapan,Tumbes,19,6
+1390,Bluebird Path,Papayal,Tumbes,7,5
+1391,Moose Trail,Zorritos,Tumbes,15,25
+1392,Fox Lane,Loma de Punta Sal,Tumbes,20,30
+1393,Rabbit Ridge,Pucallpa (capital regional),Ucayali,17,27
+1394,Eagle View,Contamana,Ucayali,6,22
+1395,Snake Avenue,Aguaytía,Ucayali,13,21
+1396,Coyote Lane,Atalaya,Ucayali,10,5
+1397,Butterfly Bend,Yarinacocha,Ucayali,17,20
+1398,Badger Road,Manantay,Ucayali,10,18
+1399,Owl Way,Nueva Requena,Ucayali,12,9
+1400,Falconer's Court,Calleria,Ucayali,19,26
+1401,Otter Bend,Raymondi,Ucayali,16,8
+1402,Heron Street,Iparía,Ucayali,8,24
+1403,Deerfield Drive,Masisea,Ucayali,14,7
+1404,Apple Pie Lane,Curimana,Ucayali,17,30
+1405,Cherry Street,Padre Abad,Ucayali,16,22
+1406,Strawberry Lane,Campoverde,Ucayali,20,7
+1407,Peach Avenue,Alexander Von Humboldt,Ucayali,9,17
+1408,Banana Boulevard,Tahuania,Ucayali,14,28
+1409,Lemon Drive,Nueva Requena,Ucayali,7,28
+1410,Orange Grove,Inahuaya,Ucayali,12,5
+1411,Grapefruit Lane,Jenaro Herrera,Ucayali,13,25
+1412,Blueberry Way,Sarayacu,Ucayali,6,8
+1413,Raspberry Road,Yarinacocha,Ucayali,8,22
+1414,Pineapple Place,San Alejandro,Ucayali,5,29
+1415,Watermelon Street,Santa Clara,Ucayali,13,9
+1416,Mango Avenue,Neshuya,Ucayali,19,6
+1417,Coconut Court,Tingo María de Porvenir,Ucayali,18,10
+1418,Grape Street,Nueva Esperanza,Ucayali,8,8
+1419,Date Drive,Campo Verde,Ucayali,7,6
+1420,Plum Place,Aguaytía,Ucayali,15,9
+1421,Blackberry Street,Posic,Ucayali,8,17
+1422,Cranberry Court,Pucallpa,Ucayali,7,10
+1423,Pomegranate Drive,Campoverde,Ucayali,11,7
+1424,Guava Lane,Alexander Von Humboldt,Ucayali,5,21
+1425,Persimmon Street,Raymondi,Ucayali,19,5
+1426,Cantaloupe Avenue,Nueva Requena,Ucayali,11,9
+1427,Honeydew Lane,Manantay,Ucayali,6,29
+1428,Lychee Street,Calleria,Ucayali,11,25
+1429,Passionfruit Drive,Masisea,Ucayali,9,14
+1430,Nectarine Lane,Iparía,Ucayali,16,11
+1431,Tangerine Court,Tahuania,Ucayali,5,11
+1432,Clementine Avenue,Curimana,Ucayali,7,27
+1433,Lime Street,Padre Abad,Ucayali,7,30
+1434,Olive Avenue,Yarinacocha,Ucayali,19,11
+1435,Papaya Court,Contamana,Ucayali,15,28
+1436,Apple Orchard Lane,Sarayacu,Ucayali,15,22
+1437,Cherry Blossom Lane,Tres Unidos,Ucayali,7,23
+1438,Strawberry Fields Road,Neshuya,Ucayali,17,21
+1439,Peachtree Avenue,Sarayacu,Ucayali,7,21
+1440,Banana Grove,Masisea,Ucayali,8,28
+1441,Lemon Tree Lane,Nueva Requena,Ucayali,17,7
+1442,Orange Blossom Lane,Curimana,Ucayali,6,23
+1443,Blueberry Hill Road,Contamana,Ucayali,19,9
+1444,Raspberry Ridge,Manantay,Ucayali,20,20
+1445,Pineapple Expressway,Nueva Requena,Ucayali,5,6
+1446,Watermelon Way,Iparía,Ucayali,10,16
+1447,Kiwi Orchard Avenue,Tahuania,Ucayali,12,6
+1448,Mango Grove,Calleria,Ucayali,8,8
+1449,Papaya Park Drive,Raymondi,Ucayali,8,14
+1450,Coconut Grove,Manantay,Ucayali,7,14
+1451,Avocado Avenue,Tres Unidos,Ucayali,14,25
+1452,Grape Vineyard Lane,Nueva Requena,Ucayali,5,22
+1453,Fig Tree Lane,Yarinacocha,Ucayali,15,14
+1454,Date Palm Drive,Yarinacocha,Ucayali,9,18
+1455,Plum Blossom Lane,Calleria,Ucayali,11,24
+1456,Apricot Orchard Drive,Curimana,Ucayali,8,27
+1457,Blackberry Bush Lane,Tahuania,Ucayali,16,28
+1458,Cranberry Bog Road,Contamana,Ucayali,18,28
+1459,Pomegranate Patch Lane,Alexander Von Humboldt,Ucayali,9,14
+1460,Guava Grove,Masisea,Ucayali,13,9
+1461,Persimmon Place,Neshuya,Ucayali,11,22
+1462,Cantaloupe Lane,Sarayacu,Ucayali,12,9
+1463,Honeydew Court,Raymondi,Ucayali,9,16
+1464,Lychee Orchard Avenue,San Alejandro,Ucayali,15,24
+1465,Passionfruit Lane,Neshuya,Ucayali,7,30
+1466,Nectarine Orchard Drive,Calleria,Ucayali,11,11
+1467,Tangerine Trail,San Alejandro,Ucayali,9,19
+1468,Clementine Street,Sarayacu,Ucayali,15,27
+1469,Lime Tree Lane,Tres Unidos,Ucayali,9,11
+1470,Grapevine Lane,Jenaro Herrera,Ucayali,19,27
+1471,Olive Orchard Drive,Neshuya,Ucayali,15,19
+1472,Papaya Grove,Iparía,Ucayali,15,17
+1473,Pine Grove,Tres Unidos,Ucayali,7,10
+1474,Apple Blossom Lane,Jenaro Herrera,Ucayali,20,16
+1475,Cherry Orchard Drive,Contamana,Ucayali,10,24
+1476,Strawberry Fields Lane,Masisea,Ucayali,14,14
+1477,Peachtree Lane,Alexander Von Humboldt,Ucayali,9,13
+1478,Banana Avenue,Tahuania,Ucayali,12,10
+1479,Lemon Blossom Lane,Curimana,Ucayali,16,13
+1480,Orange Orchard Drive,Yarinacocha,Ucayali,13,24
+1481,Grapefruit Grove,San Alejandro,Ucayali,15,16
+1482,Blueberry Lane,Santa Clara,Ucayali,9,16
+1483,Raspberry Lane,Neshuya,Ucayali,17,5
+1484,Pineapple Lane,Sarayacu,Ucayali,19,16
+1485,Watermelon Lane,Tahuania,Ucayali,9,6
+1486,Kiwi Lane,Iparía,Ucayali,12,27
+1487,Mango Lane,Nueva Requena,Ucayali,16,29
+1488,Papaya Lane,Jenaro Herrera,Ucayali,20,29
+1489,Coconut Lane,Tres Unidos,Ucayali,10,20
+1490,Avocado Lane,Posic,Ucayali,11,5
+1491,Grape Lane,Nueva Esperanza,Ucayali,17,8
+1492,Fig Lane,Curimana,Ucayali,19,22
+1493,Date Lane,Nueva Requena,Ucayali,6,29
+1494,Plum Lane,Yarinacocha,Ucayali,8,15
+1495,Apricot Lane,Contamana,Ucayali,13,7
+1496,Einstein Avenue,Campoverde,Ucayali,20,27
+1497,Mandela Street,Aguaytía,Ucayali,19,29
+1498,Hepburn Lane,Tahuania,Ucayali,8,15
+1499,Lennon Boulevard,Masisea,Ucayali,12,22
+1500,Curie Court,Padre Abad,Ucayali,5,17

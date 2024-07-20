@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "build",
+			"path": "../../../Miry/Miry/build"
+		},
+		{
+			"name": "tf_complejidad",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

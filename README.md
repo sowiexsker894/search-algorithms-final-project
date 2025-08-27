@@ -119,9 +119,9 @@ The application works with structured CSV data containing:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 **Authors**
+## 👨‍💻 **Author**
 
-- **CC235-TP-TF-2025-1** - *Initial work* - [Search Algorithms Project](https://github.com/yourusername/search-algorithms-final-project)
+- **Nicole Sihuincha** - - [Search Algorithms Project](https://github.com/yourusername/search-algorithms-final-project)
 
 ## 🙏 **Acknowledgments**
 
@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it helpful!**
 
-🔗 **Connect with us**: [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+🔗 **Connect with us**: [GitHub](https://github.com/sowiexsker894) | [LinkedIn](https://linkedin.com/in/nicoleschermacha)

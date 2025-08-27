@@ -21,7 +21,7 @@ def main():
         return G
 
     nombres_calles = {}
-    with open('tf_complejidad\Pandasapp\dataset\DATASETNODOSYCALLES.csv', 'r', encoding='utf-8') as archivo:
+    with open('tf_complejidad/Pandasapp/dataset/DATASETNODOSYCALLES.csv', 'r', encoding='utf-8') as archivo:
         
         lector_csv = csv.reader(archivo)
         next(lector_csv)  # Saltar la línea de encabezados
@@ -130,7 +130,7 @@ def main():
     canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=1)
 
     # Cargar el grafo desde el archivo CSV
-    csv_file_path = "tf_complejidad\Pandasapp\dataset\Costominimo_por_id.csv"
+    csv_file_path = "tf_complejidad/Pandasapp/dataset/Costominimo_por_id.csv"
 
     # Solicitar el rango de nodos al inicio
     prompt_node_range()
